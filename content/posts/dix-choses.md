@@ -5,11 +5,11 @@ date: 2013-07-08T00:20:23.000Z
 
 Dix choses, et non personnes, qui vont me manquer de North York.
 
-1) **Les plages en été**. Durant nos six ans ici nous avons été à au moins six différentes plages. La plus proche d'ici étant seulement à 20 minutes en voiture, ce qui m'a permis d'y aller à plusieurs reprise.[![DSC02013.JPG - Version 2](images/DSC02013.JPG-Version-2-1024x767.jpg)](http://famillecarter.com/blog/wp-content/uploads/2013/03/DSC02013.JPG-Version-2.jpg)
+1) **Les plages en été**. Durant nos six ans ici nous avons été à au moins six différentes plages. La plus proche d'ici étant seulement à 20 minutes en voiture, ce qui m'a permis d'y aller à plusieurs reprise.![DSC02013.JPG - Version 2](/images/DSC02013.JPG-Version-2-1024x767.jpg)
 
-2) **La bibliothèque de Toronto.** Une bonne grande variété de livres et un très, très bon système de réservation par internet.[![DSC03713](images/DSC03713-1024x768.jpg)](http://famillecarter.com/blog/wp-content/uploads/2013/03/DSC03713.jpg)
+2) **La bibliothèque de Toronto.** Une bonne grande variété de livres et un très, très bon système de réservation par internet.![DSC03713](/images/DSC03713-1024x768.jpg)
 
-3) **Museum+arts pass.**À tous les samedis matins on avait la possibilité d'avoir des billets pour rentrer gratuitement sur plusieurs sites de Toronto. Au total nous avons utilisé une vingtaine de billets entre autre pour le plus grand musée de Toronto ROM, le centre des scineces, le Zoo de Toronto, Casa Loma, Black Creek Pioneer Village et plusieurs autres.[![DSC03441](images/DSC03441-1024x768.jpg)](http://famillecarter.com/blog/wp-content/uploads/2013/03/DSC03441.jpg)
+3) **Museum+arts pass.**À tous les samedis matins on avait la possibilité d'avoir des billets pour rentrer gratuitement sur plusieurs sites de Toronto. Au total nous avons utilisé une vingtaine de billets entre autre pour le plus grand musée de Toronto ROM, le centre des scineces, le Zoo de Toronto, Casa Loma, Black Creek Pioneer Village et plusieurs autres.![DSC03441](/images/DSC03441-1024x768.jpg)
 
 4) **Welcome Policy.** Ce programme permet au famille à plus petit revenu d'inscrire gratuitement chaque membre de la famille dans des classes des centres communautaires. Ézékiel est celui qui en a le plus profité avec un cours de danse et deux fois le cours creative play time.
 

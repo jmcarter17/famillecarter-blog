@@ -7,6 +7,6 @@ date: 2012-10-27T00:37:26.000Z
 
 De mon côté, je m'en suis acheté une plus grosse. Et un soir que je savais que Jean-Michel allait revenir tard, je me suis mise au travail. J'ai prit un des modèles proposés sur le site de Martha Stuart. J'ai aussi suivi son conseil en l'illuminant grâce à des petites lumières blanches de Noël. Voici le résultat.
 
-[![](images/DSC05016-1024x768.jpg "DSC05016")](http://famillecarter.com/blog/wp-content/uploads/2012/10/DSC05016.jpg)
+![](/images/DSC05016-1024x768.jpg "DSC05016")
 
-Comme on habite dans un appartement et qu'on ne peux pas mettre notre citrouille devant la porte, je l'utilise comme centre de table. Ça crée une très belle ambiance. Ce matin pour le déjeuné, j'ai allumé le hibou, Zeke et Caleb étaient tout heureux. Et ce soir, Ézékiel a fermé toutes les lumières de l'appartement pour observer la citrouille dans le noir complet. Lui et Caleb sont restés assis à la table un bon dix minutes. C'était un beau moment magique.[![](images/DSC05020-1024x768.jpg "DSC05020")](http://famillecarter.com/blog/wp-content/uploads/2012/10/DSC05020.jpg)[![](images/DSC05021-1024x768.jpg "DSC05021")](http://famillecarter.com/blog/wp-content/uploads/2012/10/DSC05021.jpg)
+Comme on habite dans un appartement et qu'on ne peux pas mettre notre citrouille devant la porte, je l'utilise comme centre de table. Ça crée une très belle ambiance. Ce matin pour le déjeuné, j'ai allumé le hibou, Zeke et Caleb étaient tout heureux. Et ce soir, Ézékiel a fermé toutes les lumières de l'appartement pour observer la citrouille dans le noir complet. Lui et Caleb sont restés assis à la table un bon dix minutes. C'était un beau moment magique.![](/images/DSC05020-1024x768.jpg "DSC05020")![](/images/DSC05021-1024x768.jpg "DSC05021")

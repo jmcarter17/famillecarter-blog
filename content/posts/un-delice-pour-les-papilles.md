@@ -9,11 +9,11 @@ C'était tellement bon que deux jours plus tard j'ai refait du riz collant et la
 
 La salade de papaye verte
 
-[![](images/DSC02343-1024x768.jpg "DSC02343")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02343.jpg)Le résultat après tant d'efforts.
+![](/images/DSC02343-1024x768.jpg "DSC02343")Le résultat après tant d'efforts.
 
-[![](images/DSC02346-1024x768.jpg "DSC02346")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02346.jpg)Mon homme, qui après une bouchée, rêve de retourner en Thaïlande.
+![](/images/DSC02346-1024x768.jpg "DSC02346")Mon homme, qui après une bouchée, rêve de retourner en Thaïlande.
 
-[![](images/DSC02348-Version-2-767x1024.jpg "DSC02348 - Version 2")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02348-Version-2.jpg)Maintenant pour les curieux: **Namtok (Boeuf chute d'eau)**
+![](/images/DSC02348-Version-2-767x1024.jpg "DSC02348 - Version 2")Maintenant pour les curieux: **Namtok (Boeuf chute d'eau)**
 
  **Ingredients**:  Un steak de 1 lbs, coupé de façon assez large.
 

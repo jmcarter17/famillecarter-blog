@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/septembre-1024x558.jpg "septembre")](http://famillecarter.com/blog/wp-content/uploads/2011/10/septembre.jpg)Comme la température devient de plus en plus froide et qu'il pleut pas mal c'est temps ci, nous nous retrouvons à rester « un peu plus » à la maison. Voici un aperçu de ce que mes hommes aiment faire.
+![](/images/septembre-1024x558.jpg "septembre")Comme la température devient de plus en plus froide et qu'il pleut pas mal c'est temps ci, nous nous retrouvons à rester « un peu plus » à la maison. Voici un aperçu de ce que mes hommes aiment faire.
 
 Photo 1: Ézékiel qui s'amuse à la Wii. Mais tout d'abord c'est essentiel d'enfiler son costume pour bien rentrer dans son personnage de Batman.
 
@@ -19,8 +19,8 @@ Photo 5: Caleb aime ussi les mêmes jeux qu'Ézékiel, mais pas pour la même ra
 
 Voici d'autres photos que je ne peux pas me retenir de mettre. Ici Ézékiel à fait tous les membres de notre famille en dominos. Je lui ai demandé de me nommer les noms et voici sa réponse. De gauche à droite: Papa, maman, Ézékiel et Caleb. Je me demande pourquoi maman est aussi grosse?
 
-[![](images/DSC02150-1024x768.jpg "DSC02150")](http://famillecarter.com/blog/wp-content/uploads/2011/10/DSC02150.jpg) Après avoir fait une nouvelle structure il est fière de nous dire qu'elle est très grosse. Comme sur cette photo. Quelqu'un peut nous dire qu'est-ce que c'est?
+![](/images/DSC02150-1024x768.jpg "DSC02150") Après avoir fait une nouvelle structure il est fière de nous dire qu'elle est très grosse. Comme sur cette photo. Quelqu'un peut nous dire qu'est-ce que c'est?
 
-[![](images/DSC02572-1024x768.jpg "DSC02572")](http://famillecarter.com/blog/wp-content/uploads/2011/10/DSC02572.jpg)Puis il y a beaucoup d'autres petits plaisirs à la maison. Sur cette photo, s'y l'on regarde bien, Ézékiel passe l'aspirateur dans sa chambre. Cet électro ménager est vraiment le préféré de mes p'tits singes. Ils en prennent complètement possession quand je le sort, ce qui rend la tâche difficile pour moi. Sur cette photo Caleb est très heureux de me fermer la porte au nez. « La balayeuse est à nous maman! »
+![](/images/DSC02572-1024x768.jpg "DSC02572")Puis il y a beaucoup d'autres petits plaisirs à la maison. Sur cette photo, s'y l'on regarde bien, Ézékiel passe l'aspirateur dans sa chambre. Cet électro ménager est vraiment le préféré de mes p'tits singes. Ils en prennent complètement possession quand je le sort, ce qui rend la tâche difficile pour moi. Sur cette photo Caleb est très heureux de me fermer la porte au nez. « La balayeuse est à nous maman! »
 
-[![](images/DSC02577-768x1024.jpg "DSC02577")](http://famillecarter.com/blog/wp-content/uploads/2011/10/DSC02577.jpg)
+![](/images/DSC02577-768x1024.jpg "DSC02577")

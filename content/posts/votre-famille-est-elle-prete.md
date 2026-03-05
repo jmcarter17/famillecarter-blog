@@ -13,13 +13,13 @@ Donc, en fin de semaine nous avons finalement prit le temps en famille d'assembl
 
 Voici les outils qui m'ont été donné à l'origine et qui m'ont beaucoup aidé. Une liste du sac de 72 heures, comment faire un plan d'urgence et huit brochures de conseils pratiques.
 
-[![](images/DSC03727-768x1024.jpg "DSC03727")](http://famillecarter.com/blog/wp-content/uploads/2012/04/DSC03727.jpg)Les fiches d'informations pour mettre dans les sacs des enfants en cas de séparation.
+![](/images/DSC03727-768x1024.jpg "DSC03727")Les fiches d'informations pour mettre dans les sacs des enfants en cas de séparation.
 
-[![](images/DSC036892-1024x768.jpg "DSC03689")](http://famillecarter.com/blog/wp-content/uploads/2012/04/DSC036892.jpg)Les sacs des enfants contiennent le strict minimum pour ne pas que ce soit trop lourd.
+![](/images/DSC036892-1024x768.jpg "DSC03689")Les sacs des enfants contiennent le strict minimum pour ne pas que ce soit trop lourd.
 
-[![](images/DSC03717-1024x768.jpg "DSC03717")](http://famillecarter.com/blog/wp-content/uploads/2012/04/DSC03717.jpg)Papa qui aide fiston a ajuster son sac.[![](images/DSC03724-768x1024.jpg "DSC03724")](http://famillecarter.com/blog/wp-content/uploads/2012/04/DSC03724.jpg)Caleb fière de le porter même si c'est un peu lourd pour lui.[![](images/DSC03722-768x1024.jpg "DSC03722")](http://famillecarter.com/blog/wp-content/uploads/2012/04/DSC03722.jpg)Le résultat de notre projet.
+![](/images/DSC03717-1024x768.jpg "DSC03717")Papa qui aide fiston a ajuster son sac.![](/images/DSC03724-768x1024.jpg "DSC03724")Caleb fière de le porter même si c'est un peu lourd pour lui.![](/images/DSC03722-768x1024.jpg "DSC03722")Le résultat de notre projet.
 
-[![](images/DSC03725-768x1024.jpg "DSC03725")](http://famillecarter.com/blog/wp-content/uploads/2012/04/DSC03725.jpg)Maintenant il nous reste à trouver les objets manquants.
+![](/images/DSC03725-768x1024.jpg "DSC03725")Maintenant il nous reste à trouver les objets manquants.
 
 Dernière chose que je voulais partager avec vous. Dans notre petit appartement c'est impossible de faire des réserves, mais je suis tombée sur un super de bon site. Et je me suis dit: «Un jour…»
 

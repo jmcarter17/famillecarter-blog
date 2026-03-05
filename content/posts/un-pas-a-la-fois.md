@@ -3,7 +3,7 @@ title: "Un pas à la fois"
 date: 2012-06-27T01:20:46.000Z
 ---
 
-[![](images/altonaforest2-1024x1024.jpg "altonaforest")](http://famillecarter.com/blog/wp-content/uploads/2012/06/altonaforest2.jpg)
+![](/images/altonaforest2-1024x1024.jpg "altonaforest")
 
 | Distance: | 2.75 km |
 | --- | --- |
@@ -17,4 +17,4 @@ Résultat, on a trouvé l'activité idéal pour notre petit Forest et notre comp
 
 Voici une idée de notre parcourt.
 
-[![](images/AltonaHike_2.jpg "AltonaHike_2")](http://famillecarter.com/blog/wp-content/uploads/2012/06/AltonaHike_2.jpg)
+![](/images/AltonaHike_2.jpg "AltonaHike_2")

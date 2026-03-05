@@ -19,22 +19,22 @@ Et puis après sept mois d 'attente j'ai finalement revu mes meilleures amies, m
 
  Avec deux de mes soeurs.
 
-[![](images/DSC02096-1024x768.jpg "DSC02096")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02096.jpg)
+![](/images/DSC02096-1024x768.jpg "DSC02096")
 
 Ézékiel heureux de passer du temps avec « les amis! »
 
-[![](images/DSC02119-1024x768.jpg "DSC02119")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02119.jpg)
+![](/images/DSC02119-1024x768.jpg "DSC02119")
 
 Le beau Jude devant le gros feu de Joe.
 
-[![](images/DSC02120-753x1024.jpg "DSC02120")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02120.jpg)
+![](/images/DSC02120-753x1024.jpg "DSC02120")
 
 Mel, les bras plein de trésors.
 
-[![](images/DSC02123-1024x768.jpg "DSC02123")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02123.jpg)
+![](/images/DSC02123-1024x768.jpg "DSC02123")
 
 Puis je voulais vous laisser avec une photo trop mignonne de Caleb.
 
 Bienvenue dans les années 80.
 
-[![](images/DSC02049-768x1024.jpg "DSC02049")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02049.jpg)
+![](/images/DSC02049-768x1024.jpg "DSC02049")

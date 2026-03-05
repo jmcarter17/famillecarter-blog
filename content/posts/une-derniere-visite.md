@@ -9,4 +9,4 @@ Donc après avoir mangé dans un restaurent thaï, Jean-Michel a joué au guide 
 
  Grand-maman et grand-papa sont repartis le lundi matin. Pour une dernière fois je leur ai dit au revoir de notre petit appartement.
 
-[![](images/IMG_0305-Version-2-1024x764.jpg "IMG_0305 - Version 2")](http://famillecarter.com/blog/wp-content/uploads/2012/07/IMG_0305-Version-2.jpg)[![](images/IMG_0306-Version-2-1024x764.jpg "IMG_0306 - Version 2")](http://famillecarter.com/blog/wp-content/uploads/2012/07/IMG_0306-Version-2.jpg)
+![](/images/IMG_0305-Version-2-1024x764.jpg "IMG_0305 - Version 2")![](/images/IMG_0306-Version-2-1024x764.jpg "IMG_0306 - Version 2")

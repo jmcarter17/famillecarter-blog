@@ -9,7 +9,7 @@ Avant le départ de mon amie Emily, je lui ai demandé si je pouvais copier quel
 
 Bref, j'ai beaucoup aimé l'idée d'avoir toutes les recettes que l'on aime réuni dans un seul livre. Voilà qui m'à inspiré de commencer le projet de faire notre propre livre de recettes familiale. Ça m'a prit presque un mois et demi pour tout rassembler mes papiers et retranscrire au propre à l'ordinateur. Hier soir j'ai finalement terminé le tout et je peux dire que je suis pas mal fière de moi. Voici la page couverture.
 
-[![](images/DSC02142-768x1024.jpg "DSC02142")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02142.jpg)
+![](/images/DSC02142-768x1024.jpg "DSC02142")
 
 **_Résultat_**: 123 recettes et 72 pages
 
@@ -36,8 +36,8 @@ J'ai hâte maintenant de l'utiliser!
 
 Pour faire les deux pages couverture du livre j'ai utilisé de vieilles feuilles de papier sur lesquelles ont été gribouillé des recettes de maman, Rolande, Jean-Michel et moi. Bon je sais les pages couvertures ne sont pas de la bonne grandeur, mais je peux dire qu'elles sont solides.
 
-[![](images/DSC02141-1024x682.jpg "DSC02141")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02141.jpg)
+![](/images/DSC02141-1024x682.jpg "DSC02141")
 
 Voici une idée du texte. Bien simple, mais suffisant.
 
-[![](images/DSC02143-768x1024.jpg "DSC02143")](http://famillecarter.com/blog/wp-content/uploads/2011/08/DSC02143.jpg)
+![](/images/DSC02143-768x1024.jpg "DSC02143")

@@ -13,7 +13,7 @@ Il y avait beaucoup d'activités organisées pour les enfants dont la visite d'u
 
 Ici Zeke qui combat sa peur et affronte une descente à-pic.
 
-[![](images/DSC01829.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01829.jpg)
+![](/images/DSC01829.jpg)
 
 C'est le paradis de Monsieur boutons dans la voiture de police.
 
@@ -23,24 +23,24 @@ Puis mardi nous avons eu la visite des Amyots. Pas questions de rester 11 person
 
 Les petits mousses protégés du soleil.
 
-[![](images/DSC01845-Version-2.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01845-Version-2.jpg)Angie, la  petite beauté sauvage des Amyot.
+![](/images/DSC01845-Version-2.jpg)Angie, la  petite beauté sauvage des Amyot.
 
-[![](images/DSC01852-Version-2.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01852-Version-2.jpg)Zeke n'a jamais autant joué dans l'eau qu'avec son cousin et ses cousines.
+![](/images/DSC01852-Version-2.jpg)Zeke n'a jamais autant joué dans l'eau qu'avec son cousin et ses cousines.
 
-[![](images/DSC01839.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01839.jpg)
+![](/images/DSC01839.jpg)
 
 Avec la soeurette à la piscine.
 
-[![](images/DSC01871.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01871.jpg)
+![](/images/DSC01871.jpg)
 
 Notre étoile de mer.
 
-[![](images/DSC01883.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01883.jpg)La mini saucette de Caleb.
+![](/images/DSC01883.jpg)La mini saucette de Caleb.
 
-[![](images/DSC01878.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01878.jpg)
+![](/images/DSC01878.jpg)
 
 Les enfants de leur côté ont beaucoup aimé passer du temps ensemble. Même Caleb s'est fondu dans le décor.
 
-[![](images/DSC01857.jpg)](http://famillecarter.com/blog/wp-content/uploads/2011/07/DSC01857.jpg)
+![](/images/DSC01857.jpg)
 
 En gros les seuls qui voudraient bien se plaindre sont les pelouses toutes jaunies et brulées par le soleil. Et bien sûr ceux qui n'ont pas l'AC.

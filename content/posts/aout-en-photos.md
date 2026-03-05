@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/aoutenphotos-1024x558.jpg "aoutenphotos")](http://famillecarter.com/blog/wp-content/uploads/2011/09/aoutenphotos.jpg)Ce mois ci, j'ai choisi cinq photos de moments attendrissants. Encore là il y en avait encore beaucoup d'autres, mais voici mes coups de coeur.
+![](/images/aoutenphotos-1024x558.jpg "aoutenphotos")Ce mois ci, j'ai choisi cinq photos de moments attendrissants. Encore là il y en avait encore beaucoup d'autres, mais voici mes coups de coeur.
 
 Photo 1: Un réveille très agréable dans notre lit.
 

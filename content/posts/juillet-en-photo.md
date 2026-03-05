@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/juillet-1024x558.jpg "juillet")](http://famillecarter.com/blog/wp-content/uploads/2011/08/juillet.jpg)Pour le mois de juillet j'ai choisi cinq photo de moments qui m'ont fait rire ou sourire. J'en avait bien plus que cinq, mais je dois bien me restreindre.
+![](/images/juillet-1024x558.jpg "juillet")Pour le mois de juillet j'ai choisi cinq photo de moments qui m'ont fait rire ou sourire. J'en avait bien plus que cinq, mais je dois bien me restreindre.
 
 Photo 1: Caleb a démontré son endurance et sa patience en essayant d'enfiler deux paires de shorts dans sa jambe droite. Malheureusement même après 15 minutes, il n'avait toujours pas réussi à en porter une paire comme il le se doit. Meilleur chance la prochaine fois!
 
