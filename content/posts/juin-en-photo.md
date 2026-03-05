@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/Juin+en+photo)](http://3.bp.blogspot.com/-ob4qPRZaLCU/TgzWlaQjsKI/AAAAAAAABS4/RDS8k4KxSfA/s1600/Juin+en+photo)
+![](/images/Juin+en+photo)
 
   
 

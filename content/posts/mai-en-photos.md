@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/Mai%2Ben%2Bphoto)](http://2.bp.blogspot.com/-Gb5NpX-qmoM/TeacD2UGdOI/AAAAAAAABQQ/F5o3AAuPj8s/s1600/Mai%2Ben%2Bphoto)\*Cliquez sur la photo pour voir en plus gros.  
+![](/images/Mai+en+photo)\*Cliquez sur la photo pour voir en plus gros.  
  
 
   

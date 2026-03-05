@@ -27,7 +27,7 @@ Maman hésite puis change le film.
 
 Ici Ézékiel qui écoute son film préféré, Monsters inc.  
 
-[![](images/DSC06545.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/S4ccus_UZOI/AAAAAAAAAuI/2A_8pDvXKFI/s1600-h/DSC06545.JPG)
+![](/images/DSC06545.JPG)
 
   
 
@@ -57,7 +57,7 @@ Résultat crise de 10 minutes pour rentrer dans l'appartement. Une autre de 5 mi
 
 Papa est mi à l'épreuve par Zeke.
 
-[![](images/DSC06552.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/S4ccvRHriqI/AAAAAAAAAuY/067YhI-NF-0/s1600-h/DSC06552.JPG)
+![](/images/DSC06552.JPG)
 
   
 
@@ -67,17 +67,17 @@ Malgré cette période d'apprentissage d'Ézékiel, on est en amour avec lui.
 
 Il est trop adorable quand il téléphone tous ses amis.
 
-[![](images/DSC06563.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/S4ccvq0b-aI/AAAAAAAAAug/1cPZ4vAzjo4/s1600-h/DSC06563.JPG)
+![](/images/DSC06563.JPG)
 
   
 
 Vive les poches!
 
-[![](images/DSC06549.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/S4ccu1XItEI/AAAAAAAAAuQ/36Pb23ct1dY/s1600-h/DSC06549.JPG)
+![](/images/DSC06549.JPG)
 
   
 
 Comme Jean-Michel a peur que son fils ne soit pas artistique comme lui, il a prit une photo pour prouver qu'Ézékiel a déjà fait un bricolage.
 
 [](http://3.bp.blogspot.com/_ToTXtyv4mUo/S4ccvq0b-aI/AAAAAAAAAug/1cPZ4vAzjo4/s1600-h/DSC06563.JPG)  
-[![](images/DSC06540.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/S4ccuHevNmI/AAAAAAAAAuA/_FpqLulUhIo/s1600-h/DSC06540.JPG)
+![](/images/DSC06540.JPG)

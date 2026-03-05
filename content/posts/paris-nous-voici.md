@@ -43,7 +43,7 @@ Jean-Michel: Les bateaux parisiens sur la Seine & le chateau de Vincennes.
 
   
 
-[![](images/DSC00139.JPG)](http://2.bp.blogspot.com/-WpKm4OmWLds/Tb8T46p98HI/AAAAAAAABGo/Zl_hGFCZhok/s1600/DSC00139.JPG)
+![](/images/DSC00139.JPG)
 
   
 
@@ -55,7 +55,7 @@ La deuxième journée, j'ai vraiment aimé la visite du petit château de Vincen
 
 Ici, Jean-Michel et Ézékiel devant le chateau de Vincennes
 
-[![](images/DSC00306.JPG)](http://2.bp.blogspot.com/-rIPpUMyHtKU/Tb8T57n961I/AAAAAAAABHA/wfFSWN82uvI/s1600/DSC00306.JPG)
+![](/images/DSC00306.JPG)
 
   
 
@@ -65,7 +65,7 @@ On était en train d'admirer la ville du haut de la tour Montparnasse quand j'ai
 
   
 
-[![](images/DSC00213.JPG)](http://1.bp.blogspot.com/-Mg_ya1NpXQs/Tb8T5F6DcGI/AAAAAAAABGw/4suiOJINcqc/s1600/DSC00213.JPG)
+![](/images/DSC00213.JPG)
 
   
 
@@ -73,13 +73,13 @@ Vendredi nous voulions aller visiter le Sacré-Coeur. Il y avait VRAIMENT beauco
 
   
 
-[![](images/DSC00271.jpg)](http://4.bp.blogspot.com/-zUw0ZSRoj9Q/Tb8T5ZapG6I/AAAAAAAABG4/W2LVaorM-5s/s1600/DSC00271.jpg)
+![](/images/DSC00271.jpg)
 
   
 
 Après trois jours à Paris nous avons quitté nos amis les Crucy.  
 
-[![](images/DSC00332.JPG)](http://4.bp.blogspot.com/-ko6GeU7_xjU/Tb8T6eV1aSI/AAAAAAAABHI/OPgmovKxWms/s1600/DSC00332.JPG)
+![](/images/DSC00332.JPG)
 
   
 

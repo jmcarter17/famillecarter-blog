@@ -6,7 +6,7 @@ date: 2009-11-17T02:14:00.000Z
 Je sais que la première photo de Jean-Michel est plus que ratée. L'éclairage était très sombre et notre caméra était plus que capricieuse. Mais d'après vous où se trouve t'il?  
   
 
-[![](images/DSC06005.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/SwIMGlN5BFI/AAAAAAAAAsc/lnQ8dlOLhSk/s1600/DSC06005.JPG)
+![](/images/DSC06005.JPG)
 
 a)L'allée de la résidence du clan Skulls
 
@@ -22,7 +22,7 @@ Vue de la cour arrière
 
   
 
-[![](images/DSC06067.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SwIPsts0YJI/AAAAAAAAAtE/hec99wlbVaA/s1600/DSC06067.JPG)
+![](/images/DSC06067.JPG)
 
   
 
@@ -30,7 +30,7 @@ Avec mes talons hauts, un ventre vide et un bébé en poussette, nous avons entr
 
   
 
-[![](images/DSC06004.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SwIMGQtbVcI/AAAAAAAAAsU/C2T5Iy-gWvw/s1600/DSC06004.JPG)
+![](/images/DSC06004.JPG)
 
   
 
@@ -40,7 +40,7 @@ En gros, Jean-Michel et moi avons tripé sur notre visite. La partie que j'ai le
 
 Escalier qui m'on torturé  
 
-[![](images/DSC06022.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SwIMHVl32CI/AAAAAAAAAss/lwlmaIOp0I4/s1600/DSC06022.JPG)
+![](/images/DSC06022.JPG)
 
   
 
@@ -54,7 +54,7 @@ Voici la première qui dura le temps de visiter le rez-de-chaussée.
 
 Zzzzz  
 
-[![](images/DSC06008.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SwIMHHus6GI/AAAAAAAAAsk/14Vbng4lAwU/s1600/DSC06008.JPG)
+![](/images/DSC06008.JPG)
 
   
 
@@ -66,9 +66,9 @@ C'est ainsi que commença la troisième partie. Le iPob fût confisqué et Ézé
 
   
 
-[![](images/DSC06055.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SwIPsNTil5I/AAAAAAAAAs8/jqtTDMITDT0/s1600/DSC06055.JPG)
+![](/images/DSC06055.JPG)
 
-[![](images/DSC06070.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SwIPs4OzGuI/AAAAAAAAAtM/oGZumy3STxE/s1600/DSC06070.JPG)
+![](/images/DSC06070.JPG)
 
 Malgré cet incident notre visite de Casa Loma fut très très très plaisante.
 
@@ -76,4 +76,4 @@ Malgré cet incident notre visite de Casa Loma fut très très très plaisante.
 
   
   
-[![](images/DSC06050.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SwIMHlBb2HI/AAAAAAAAAs0/QFR7eRCUY9w/s1600/DSC06050.JPG)
+![](/images/DSC06050.JPG)

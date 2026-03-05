@@ -11,13 +11,13 @@ Disons qu'il détient de sa maman et n'est pas un grand gourmand. Le voici lors 
 
   
 
-[![](images/DSC08760.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TPUhyUe4FbI/AAAAAAAAA9o/tfz6kxAMI7Y/s1600/DSC08760.JPG)
+![](/images/DSC08760.JPG)
 
   
 
 Ici lors d'une pratique à l'heure du midi.
 
-[![](images/DSC08786.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TPUhzDNcjtI/AAAAAAAAA94/aGLy-c5uILw/s1600/DSC08786.JPG)
+![](/images/DSC08786.JPG)
 
   
 
@@ -25,13 +25,13 @@ Il se roule du ventre sur le dos facilement...
 
 jusqu'à disparaitre sous les meubles.
 
-[![](images/DSC08764.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TPUhy2DEpTI/AAAAAAAAA9w/Sivz6fFfSzg/s1600/DSC08764.JPG)
+![](/images/DSC08764.JPG)
 
   
 
 Au grand plaisir d'Ézékiel, Caleb passe de plus en plus de temps avec lui. Sur cette photo Zeke fait la lecture des écritures à Caleb.
 
-[![](images/DSC08306.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TPUhyC4llHI/AAAAAAAAA9g/9eHLNz2rtcY/s1600/DSC08306.JPG)
+![](/images/DSC08306.JPG)
 
   
 

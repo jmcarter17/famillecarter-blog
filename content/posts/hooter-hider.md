@@ -13,9 +13,9 @@ C'était tellement pratique que j'ai voulu en confectionner pour mes soeurs Audr
 Celui d'Audrey.  
 
   
-[![](images/DSC01527.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/Sns0EsmgEXI/AAAAAAAAAng/65ND6Ou8pk8/s1600-h/DSC01527.JPG)  
+![](/images/DSC01527.JPG)  
 
 Celui de Tartine.  
 
   
-[![](images/DSC02262.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/Sns0FWRHV3I/AAAAAAAAAno/czHDSNpNEQ0/s1600-h/DSC02262.JPG)
+![](/images/DSC02262.JPG)

@@ -3,7 +3,7 @@ title: "Je t'imagine"
 date: 2010-10-27T23:44:00.000Z
 ---
 
-[![](images/SummerDriggs_FallingForFall_DarkBrownDandelions.jpg)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TMi5vJ0wIgI/AAAAAAAAA8I/Hnn9DyAtiDA/s1600/SummerDriggs_FallingForFall_DarkBrownDandelions.jpg)Ma grand-maman Irène Fournier  
+![](/images/SummerDriggs_FallingForFall_DarkBrownDandelions.jpg)Ma grand-maman Irène Fournier  
 
   
   
@@ -18,6 +18,6 @@ Je t'aime grand-maman que toutes les promesses célestes se réalisent.
 
   
 
-[![](images/SummerDriggs_OwlAlwaysLoveSpring_FlowerPaper.jpg)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TMi5vmS5RUI/AAAAAAAAA8Q/RbpdDdnRWp8/s1600/SummerDriggs_OwlAlwaysLoveSpring_FlowerPaper.jpg)
+![](/images/SummerDriggs_OwlAlwaysLoveSpring_FlowerPaper.jpg)
 
 Mon grand-papa Carmel Beaupré

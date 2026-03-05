@@ -5,7 +5,7 @@ categories:
   - "nouvelles-dezekiel"
 ---
 
-[![](images/DSC09902.jpg)](http://2.bp.blogspot.com/-NPTX2fniJUI/TX4kqXC8cAI/AAAAAAAABDg/sxyoJhGbidE/s1600/DSC09902.jpg)  
+![](/images/DSC09902.jpg)  
   
 
 Vendredi passé j'étais en train de gonfler des ballons quand Ézékiel a comprit par lui-même qu'on allait recevoir à la maison. J'ai décider de briser le secret et je lui ai avoué qu'en effet les amis allaient arriver dans moins d'une heure pour fêter ses trois ans. Grave erreurs de ma part. En 30 minutes notre petit monsieur c'est tellement énervé qu'il était tout trempé de sueur. Il sautait d'un côté du salon à l'autre, utilisa son frère comme coussin d'atterrissage et brisa une balloonne. Il était tellement en sueur que j'ai du le mettre dans sa chambre pour qu'il se calme et sèche un peu. La soirée commençait bien! En réalité ça c'est très bien passé. Quatre amis sont venus: Margo, Liviya, Louisa Maria et Tyler.
@@ -14,9 +14,9 @@ Ceux qui connaissent bien Ézékiel savent qu'il aime les chiffres. Il est très
 
   
 
-[![](images/DSC09892.JPG)](http://1.bp.blogspot.com/-UcmXQXiQKyc/TX4kpw6t9TI/AAAAAAAABDY/TwiW-H_o_0s/s1600/DSC09892.JPG)
+![](/images/DSC09892.JPG)
 
-[![](images/DSC09912.JPG)](http://3.bp.blogspot.com/-LzeaZ4WTaH0/TX4kqgh46pI/AAAAAAAABDo/2P_5wj26sBc/s1600/DSC09912.JPG)
+![](/images/DSC09912.JPG)
 
   
 
@@ -24,9 +24,9 @@ Plus tard dans la soirée nous avons sorti le gâteau. Pauvre Zeke, il a eu peur
 
 Zeke qui a peur des étincelles.
 
-[![](images/DSC09918.JPG)](http://3.bp.blogspot.com/-VzLw5sd1Rac/TX4krVzxzyI/AAAAAAAABDw/Y7LXL9PygNU/s1600/DSC09918.JPG)
+![](/images/DSC09918.JPG)
 
-[![](images/DSC09920.JPG)](http://1.bp.blogspot.com/-pa5ysweXJr8/TX44ZhPKejI/AAAAAAAABEI/w-pzDNE-3-Q/s1600/DSC09920.JPG)
+![](/images/DSC09920.JPG)
 
   
 
@@ -34,7 +34,7 @@ Pendant l'heure du dessert Caleb prenait sa place au travers des invités. Heure
 
 Ici Caleb qui fait sa place. "Tassez-vous de là!"  
 
-[![](images/DSC09923.JPG)](http://1.bp.blogspot.com/-FRQ8Q48jtL8/TX4kr2tVEtI/AAAAAAAABD4/JReDm00X7ls/s1600/DSC09923.JPG)
+![](/images/DSC09923.JPG)
 
   
 
@@ -42,4 +42,4 @@ Ici Caleb qui fait sa place. "Tassez-vous de là!"
 
 Mille merci à tous pour votre présence et vos beaux cadeaux.
 
-[![](images/DSC09927.JPG)](http://1.bp.blogspot.com/-G2n3V0NysOI/TX4mz8cx6uI/AAAAAAAABEA/H5HeziHOFLQ/s1600/DSC09927.JPG)
+![](/images/DSC09927.JPG)

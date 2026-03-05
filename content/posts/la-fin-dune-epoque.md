@@ -19,25 +19,25 @@ Et puis quatre années se sont écoulés et voici que nos bons amis sont partis.
 
 Voici une dernière soirée entre amis pour dire bye aux Meldrums et aux Watsons.
 
-[![](images/DSC01558.JPG)](http://2.bp.blogspot.com/-jKl4ylyuTg0/TgZvjNl1e1I/AAAAAAAABQs/SKcEzthV4p8/s1600/DSC01558.JPG)
+![](/images/DSC01558.JPG)
 
   
 
 Ici Zeke et Margo sur le dos de Jordan.
 
-[![](images/DSC01561.JPG)](http://1.bp.blogspot.com/-7Bx7VrJfGgA/TgZvjcCPZhI/AAAAAAAABQ0/azPbEoPsMKc/s1600/DSC01561.JPG)
+![](/images/DSC01561.JPG)
 
   
 
 Une dernière conversation avant le grand départ.
 
-[![](images/DSC01607.JPG)](http://3.bp.blogspot.com/-nzDuYOJcvVk/TgZvjncgjHI/AAAAAAAABQ8/CRJx_okuUig/s1600/DSC01607.JPG)
+![](/images/DSC01607.JPG)
 
   
 
 La photo final de notre aventure à Toronto avec les Meldrum's.
 
-[![](images/DSC01614.JPG)](http://2.bp.blogspot.com/-vcxgfF9UM44/TgZvj9QmSII/AAAAAAAABRE/3hsnzjr6zO4/s1600/DSC01614.JPG)
+![](/images/DSC01614.JPG)
 
   
 

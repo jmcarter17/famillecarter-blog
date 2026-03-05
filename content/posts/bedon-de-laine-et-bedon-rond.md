@@ -35,9 +35,9 @@ Voici la photo que l'on a envoyé par internet à notre famille. Pour ceux qui l
 
   
 
-[![](images/DSC05714.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/S0VOeW7PcXI/AAAAAAAAAtw/oB4v1D-177k/s1600-h/DSC05714.JPG)  
+![](/images/DSC05714.JPG)  
 
 Et puis notre Ézékiel qui commence déjà à faire le grand frère.  
 
   
-[![](images/DSC05711.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/S0VOeO-He7I/AAAAAAAAAto/E1zn9X9Kb9M/s1600-h/DSC05711.JPG)
+![](/images/DSC05711.JPG)

@@ -13,7 +13,7 @@ Premièrement, j'ai lavé la robe blanche que Caleb allait porter pour l'occasio
 
   
 
-[![](images/DSC07432.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TDYUaBMCCLI/AAAAAAAAA0k/Us0Q9uRchnM/s1600/DSC07432.JPG)
+![](/images/DSC07432.JPG)
 
   
 
@@ -21,7 +21,7 @@ Puis avec notre cueillette de fraise, j'ai fait un gâteau aux fraises. C'est ce
 
   
 
-[![](images/DSC07426.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TDYUZYeAOHI/AAAAAAAAA0c/rTzEukqc0fg/s1600/DSC07426.JPG)
+![](/images/DSC07426.JPG)
 
   
 
@@ -30,6 +30,6 @@ Bien nerveux, mais bien préparé, Jean-Michel a fait une très belle bénédict
 Caleb dans toute sa splendeur.
 
   
-[![](images/DSC07445.1jpg)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TDYUboikE3I/AAAAAAAAA00/aarcwx-2wLs/s1600/DSC07445.1jpg)  
+![](/images/DSC07445.1jpg)  
   
-[![](images/DSC07436.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TDYUbJC69dI/AAAAAAAAA0s/wcS6-05Qnjg/s1600/DSC07436.JPG)
+![](/images/DSC07436.JPG)

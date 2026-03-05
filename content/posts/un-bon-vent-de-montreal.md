@@ -17,31 +17,31 @@ Voici quelques photos que nous avons prit au jardin botanique.
 Les grands-parents Lemire  
 
   
-[![](images/DSC03812.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SeSYKZLpWdI/AAAAAAAAAZE/F1nsr1O_9x0/s1600-h/DSC03812.JPG)  
+![](/images/DSC03812.JPG)  
 
 Marjo, Jean-Michel et...  
 
   
-[![](images/DSC03828.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SeSYLPsjJJI/AAAAAAAAAZU/QGAmz6uaHtQ/s1600-h/DSC03828.JPG)  
+![](/images/DSC03828.JPG)  
 
 ...Ézékiel. Jean-Michel trouvait que Zeke  
 ressemblait à Simplet dans Blanche-neige, avec sa tuque.  
 Tout un compliment!  
 
   
-[![](images/DSC03856.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SeScTJ92nBI/AAAAAAAAAZs/HoVH9Pcdvr4/s1600-h/DSC03856.JPG)  
+![](/images/DSC03856.JPG)  
 
 Le père et le gendre  
 
   
-[![](images/DSC03820.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SeSYK8jXmmI/AAAAAAAAAZM/3u4Vzv96isY/s1600-h/DSC03820.JPG)  
+![](/images/DSC03820.JPG)  
 
 La mère et la fille  
   
-[![](images/DSC03850.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SeSYMR8lCnI/AAAAAAAAAZk/qYtsOpHUe2U/s1600-h/DSC03850.JPG)  
+![](/images/DSC03850.JPG)  
 Où est le canard? Le voyez-vous?  
   
-[![](images/DSC03833.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SeSYLcZW5ZI/AAAAAAAAAZc/xcgP-CeAvFQ/s1600-h/DSC03833.JPG)
+![](/images/DSC03833.JPG)
 
   
 Le temps passe très vite quand on est en bonne compagnie. Le lendemain, c'était déjà le temps pour mes parents de reprendre la route vers Montréal.  

@@ -15,7 +15,7 @@ qu'il ne voulait plus en descendre.
 
   
 
-[![](images/DSC05868.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/St0MUniAjEI/AAAAAAAAArU/lY435yZQTU0/s1600-h/DSC05868.JPG)
+![](/images/DSC05868.JPG)
 
   
 
@@ -23,5 +23,5 @@ Tu me fait craquer mon coco!
 
   
   
-[![](images/DSC05878.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/St0MU3jjG1I/AAAAAAAAArc/eTQUZl2h_wk/s1600-h/DSC05878.JPG)  
-[![](images/DSC05886.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/St0MViYJKGI/AAAAAAAAArk/0B7INeLBfYc/s1600-h/DSC05886.JPG)
+![](/images/DSC05878.JPG)  
+![](/images/DSC05886.JPG)

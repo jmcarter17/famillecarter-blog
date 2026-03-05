@@ -15,7 +15,7 @@ Mon réveille paradisiaque de la semaine. Être entre mes deux garçons d'amour.
 
   
 
-[![](images/DSC08024.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TIerPCtudBI/AAAAAAAAA4g/DOXGP7XBcKs/s1600/DSC08024.JPG)
+![](/images/DSC08024.JPG)
 
   
 
@@ -23,7 +23,7 @@ Visite chez les Vallée. Je suis toujours enchantée de voir les nouvelles créa
 
   
 
-[![](images/DSC08030.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TIerP6ubzzI/AAAAAAAAA4o/CU5IxDaFBR4/s1600/DSC08030.JPG)
+![](/images/DSC08030.JPG)
 
   
 
@@ -31,7 +31,7 @@ Puisque tous les enfants étaient à l'école vendredi avant-midi. On a eu une b
 
   
 
-[![](images/DSC08055.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TIerQojGH3I/AAAAAAAAA4w/2LhW60tulfk/s1600/DSC08055.JPG)
+![](/images/DSC08055.JPG)
 
   
 
@@ -39,7 +39,7 @@ Samedi le vent était idéal pour faire du cerf-volent. Les enfants ont regardé
 
   
 
-[![](images/DSC08071.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TIerREpvlHI/AAAAAAAAA44/0L0EO1ohT6s/s1600/DSC08071.JPG)
+![](/images/DSC08071.JPG)
 
   
 
@@ -47,7 +47,7 @@ Zeke à aussi fait sa deuxième tentative de vélo. Il faut dire que la premièr
 
   
 
-[![](images/DSC08082.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TIerRzGB9JI/AAAAAAAAA5A/RhA6Nxz07w4/s1600/DSC08082.JPG)
+![](/images/DSC08082.JPG)
 
   
 
@@ -55,7 +55,7 @@ Avec les enfants du côté Carter.
 
   
 
-[![](images/DSC08097.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TIetOM5NNxI/AAAAAAAAA5I/X1D1pO37Ijg/s1600/DSC08097.JPG)
+![](/images/DSC08097.JPG)
 
   
 
@@ -63,7 +63,7 @@ Jean-Michel qui nous montre le derrière de son cheval.   C'est dommage que je n
 
   
 
-[![](images/DSC08110.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TIetOsJfJeI/AAAAAAAAA5Q/1vP8kB953tM/s1600/DSC08110.JPG)
+![](/images/DSC08110.JPG)
 
   
 
@@ -71,7 +71,7 @@ Jean-Michel qui nous montre le derrière de son cheval.   C'est dommage que je n
 
   
 
-[![](images/DSC08112.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TIetPCBj_hI/AAAAAAAAA5Y/Je4WaoQztoU/s1600/DSC08112.JPG)
+![](/images/DSC08112.JPG)
 
   
 
@@ -79,7 +79,7 @@ On a réussi à mettre le casque grâce aux smarties. J'avoue que j'étais pas m
 
   
 
-[![](images/DSC08119.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TIetPj-NgiI/AAAAAAAAA5g/nzpnhDt6TFQ/s1600/DSC08119.JPG)
+![](/images/DSC08119.JPG)
 
   
 
@@ -87,7 +87,7 @@ Après la course de go karts tout le monde avait un super beaux sourire.
 
   
 
-[![](images/DSC08139.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TIetQIDEE9I/AAAAAAAAA5o/_mIjUxYvMr4/s1600/DSC08139.JPG)
+![](/images/DSC08139.JPG)
 
   
 

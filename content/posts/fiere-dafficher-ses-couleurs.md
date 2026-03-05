@@ -14,7 +14,7 @@ Ferme Cooper's
 
   
 
-[![](images/DSC08486.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TL0KCRYmhuI/AAAAAAAAA74/zqPN8UQVWWQ/s1600/DSC08486.JPG)
+![](/images/DSC08486.JPG)
 
   
 
@@ -22,7 +22,7 @@ Un p'tit mot de bienvenue à notre arrivé.
 
   
 
-[![](images/DSC08429.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TL0G1UI1n2I/AAAAAAAAA7Q/k6iuyVsD9gc/s1600/DSC08429.JPG)
+![](/images/DSC08429.JPG)
 
   
 
@@ -32,7 +32,7 @@ Nous y avons fait une ballade en tracteur, nous avons trouvé La parfaite citrou
 
   
 
-[![](images/DSC08433.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TL0G2tlNwUI/AAAAAAAAA7Y/AwUxQfULsDY/s1600/DSC08433.JPG)
+![](/images/DSC08433.JPG)
 
   
 
@@ -42,7 +42,7 @@ Dans le labyrinthe pour enfants.
 
   
 
-[![](images/DSC08456.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TL0G3b9oEuI/AAAAAAAAA7g/8D2t2-Z4SBQ/s1600/DSC08456.JPG)
+![](/images/DSC08456.JPG)
 
   
 
@@ -50,7 +50,7 @@ Dans le grand labyrinthe de 10 acres.
 
   
 
-[![](images/DSC08470.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TL0G3laRm4I/AAAAAAAAA7o/EjIz_6lDN1g/s1600/DSC08470.JPG)
+![](/images/DSC08470.JPG)
 
   
 
@@ -58,11 +58,11 @@ Jean-Michel à fièrement affiché ses colleurs en portant sa casquette des Cana
 
   
 
-[![](images/DSC08480_2.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TL0KB-KdhkI/AAAAAAAAA7w/CzCWRQI1LQE/s1600/DSC08480_2.JPG)
+![](/images/DSC08480_2.JPG)
 
   
 
-[![](images/2010maze)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TL0G07hzV2I/AAAAAAAAA7I/SRzDlO9lRRY/s1600/2010maze)
+![](/images/2010maze)
 
   
 

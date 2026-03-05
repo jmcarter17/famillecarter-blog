@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/Mars)](http://2.bp.blogspot.com/-VDAWKSGcb-g/TZYhPJD5KvI/AAAAAAAABEo/Tzu0ZfzeY7M/s1600/Mars)  
+![](/images/Mars)  
 C'est le temps de faire un court résumer de notre mois.
 
 Photo 1: Au début du mois de mars on a prit un samedi pour aller à la piscine à vagues avec nos bons amis les Meldrum's.

@@ -18,7 +18,7 @@ Sur le balcon de l'Oratoire St-Joseph
 
   
 
-[![](images/DSC08348.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TLZvjTHBjUI/AAAAAAAAA6Y/vYOnOucVYqA/s1600/DSC08348.JPG)
+![](/images/DSC08348.JPG)
 
   
 
@@ -26,8 +26,8 @@ Ici dans le petit village de Knowlton.
 
   
 
-[![](images/DSC08336.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TLZvjGVIcqI/AAAAAAAAA6Q/g4-laVFgoCs/s1600/DSC08336.JPG)
+![](/images/DSC08336.JPG)
 
   
 
-[![](images/DSC08331.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TLZvi68g3bI/AAAAAAAAA6I/W-KtqTAWYCo/s1600/DSC08331.JPG)
+![](/images/DSC08331.JPG)

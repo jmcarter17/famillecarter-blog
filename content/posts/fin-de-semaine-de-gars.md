@@ -9,7 +9,7 @@ categories:
 
   
 
-[![](images/DSC05414.JPG)](http://2.bp.blogspot.com/_w5xjs8u1xbM/SqMyeP94ahI/AAAAAAAAAR4/6HnMKnFyCmM/s1600-h/DSC05414.JPG)
+![](/images/DSC05414.JPG)
 
 Fin de semaine avec mes 2 frères!
 
@@ -23,7 +23,7 @@ Premièrement, Mercredi soir nous sommes allés voir un match des Blue Jays. Ça
 
   
 
-[![](images/DSC05402.JPG)](http://4.bp.blogspot.com/_w5xjs8u1xbM/SqMydiRQl-I/AAAAAAAAARw/DbgnLHJaPp0/s1600-h/DSC05402.JPG)
+![](/images/DSC05402.JPG)
 
 Au Baseball!
 
@@ -47,7 +47,7 @@ Vendredi matin, on rejoint frère Wilson, mon partenaire de Golf, pour une ronde
 
   
 
-[![](images/DSC05499.JPG)](http://4.bp.blogspot.com/_w5xjs8u1xbM/SqMyelIQC-I/AAAAAAAAASA/MTxttDctFvg/s1600-h/DSC05499.JPG)
+![](/images/DSC05499.JPG)
 
 The Holy Grail!
 
@@ -59,7 +59,7 @@ Samedi, on à passé beaucoup de temps à relaxer, a jouer à la Wii, au Tennis 
 
   
 
-[![](images/DSC05416.JPG)](http://4.bp.blogspot.com/_w5xjs8u1xbM/SqMyfI6GhsI/AAAAAAAAASI/Grl5BuFwQhc/s1600-h/DSC05416.JPG)
+![](/images/DSC05416.JPG)
 
 Ézékiel et Laurie qui s'amusaient pendant qu'on jouait au Golf
 

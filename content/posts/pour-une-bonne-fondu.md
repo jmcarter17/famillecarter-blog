@@ -7,7 +7,7 @@ Hier nous avons mangé de la fondu avec nos amis. C'était super bon et ça m'a 
   
 À la demande de plusieurs la voici:  
   
-[![](images/DSC04254.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/SgXM1A2ooRI/AAAAAAAAAc8/qrXrwTnYS-8/s1600-h/DSC04254.JPG)  
+![](/images/DSC04254.JPG)  
 Sauce au miel  
   
 \-1 t. d'huile  

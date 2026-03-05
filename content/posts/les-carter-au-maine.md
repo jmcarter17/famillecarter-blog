@@ -5,7 +5,7 @@ date: 2013-10-21T00:46:12.000Z
 
 C’était toute une première pour notre famille d’aller en vacance au Maine. La famille Carter, presque au grand complet, s’est déplacée pour l’évènement. Nous avons loué trois chalets pour accommoder tout ce beau monde là. Voici nos enfants devant le logement que nous avons occupé durant la semaine.
 
-![DSC05618](images/DSC05618-1024x768.jpg)
+![DSC05618](/images/DSC05618-1024x768.jpg)
 
 Température géniale! À tous les jours nous avons été à la plage à l’exception du dimanche. Sur cette photo nos trois plus grandes qui ont bien profité de ce temps de rêve.
 
@@ -13,7 +13,7 @@ Température géniale! À tous les jours nous avons été à la plage à l’exc
 
 Nos gars aussi se sont bien amusés entre eux. C’est fou c’est comme si on a à peine vu nos enfants pendant la semaine tellement ils se sont bien occupé ensemble. C’est ça la joie d’avoir beaucoup de cousins et cousines de son âge.
 
-![DSC05717](images/DSC05717-1024x767.jpg)
+![DSC05717](/images/DSC05717-1024x767.jpg)
 
 Ici maman et papa heureux de se retrouver un peu.
 

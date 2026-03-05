@@ -11,7 +11,7 @@ Premièrement, en Mars, j'ai eut la chance de participer au 2009 annual APS (Ame
 
   
 
-[![](images/DSC00153.JPG)](http://4.bp.blogspot.com/_w5xjs8u1xbM/Sjz7DV9Q9oI/AAAAAAAAAQA/vV2jBodYPuY/s1600-h/DSC00153.JPG)
+![](/images/DSC00153.JPG)
 
 À partir du Convention center ... on voit les nombreux ponts jaunes
 
@@ -23,7 +23,7 @@ Pendant que j'étais à Pittsburgh, Guillaume Lambert (un ami de McGill qui est 
 
   
 
-![](images/DSC00162.JPG)
+![](/images/DSC00162.JPG)
 
 Pendant le match, une fin d'escarmouche!
 
@@ -37,7 +37,7 @@ Ensuite, en Mai, j'ai eu la chance d'aller à Vancouver pour un Summer school su
 
   
 
-[![](images/DSC04538.JPG)](http://4.bp.blogspot.com/_w5xjs8u1xbM/Sjz_i7amFjI/AAAAAAAAAQI/Gd5r_-y3phA/s1600-h/DSC04538.JPG)
+![](/images/DSC04538.JPG)
 
 Me voici devant mon poster (quand même un peu stressé).
 
@@ -47,12 +47,12 @@ Vancouver est vraiment une belle ville. Surtout le campus de UBC sur le bord de 
 
   
 
-[![](images/DSC04534.JPG)](http://2.bp.blogspot.com/_w5xjs8u1xbM/Sjz_jmplNTI/AAAAAAAAAQY/xvLEuJlv_MY/s1600-h/DSC04534.JPG)
+![](/images/DSC04534.JPG)
 
 La vue que j'avais à partir de l'Hôtel où je présentait mon poster.
 
   
-[![](images/DSC04525.JPG)](http://3.bp.blogspot.com/_w5xjs8u1xbM/Sjz_jOlMCKI/AAAAAAAAAQQ/-dNrXQt9SqU/s1600-h/DSC04525.JPG)
+![](/images/DSC04525.JPG)
 
 Ici c'est la vue à partir du restaurant où nous sommes allées le mardi soir.
 

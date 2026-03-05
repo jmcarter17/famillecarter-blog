@@ -7,7 +7,7 @@ Après 2 ans de voir nos amis les Meldrum faire un jardin de légumes chez eux, 
 
   
 
-![](images/DSC06827.JPG)
+![](/images/DSC06827.JPG)
 
 Une vue d'ensemble
 
@@ -17,7 +17,7 @@ On a planté (il y a 3 semaines déjà) des Oignons, des Pois, des Radis et des 
 
   
 
-![](images/DSC06817.JPG)
+![](/images/DSC06817.JPG)
 
 Les oignons
 
@@ -25,7 +25,7 @@ Les oignons
 
   
 
-![](images/DSC06824.JPG)
+![](/images/DSC06824.JPG)
 
 Les Radis (les premiers à pousser)
 
@@ -33,7 +33,7 @@ Les Radis (les premiers à pousser)
 
   
 
-![](images/DSC06825.JPG)
+![](/images/DSC06825.JPG)
 
 Les petits Pois
 
@@ -41,7 +41,7 @@ Les petits Pois
 
   
 
-![](images/DSC06821.JPG)
+![](/images/DSC06821.JPG)
 
 Les Carottes (difficile à voir ... mais on voit des petits cheveux verts)
 
@@ -57,7 +57,7 @@ Finalement, hier, j'ai planté des Concombre et des Zucchinis, de la Coriandre, 
 
   
 
-![](images/DSC06818.JPG)
+![](/images/DSC06818.JPG)
 
 Les Tomates (4 plants réguliers et 1 plant Tomate-cerise)
 
@@ -65,7 +65,7 @@ Les Tomates (4 plants réguliers et 1 plant Tomate-cerise)
 
   
 
-![](images/DSC06822.JPG)
+![](/images/DSC06822.JPG)
 
 Piments de cayenne
 
@@ -73,7 +73,7 @@ Piments de cayenne
 
   
 
-![](images/DSC06819.JPG)
+![](/images/DSC06819.JPG)
 
 Ézékiel devant la Ciboulette et le Thym
 

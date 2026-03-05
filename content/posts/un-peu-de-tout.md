@@ -23,7 +23,7 @@ Notre p'tit homme nous fait tellement craquer. Quand il mange un cornet au choco
 Vous n'êtes pas de cet avis?  
   
 
-[![](images/DSC04517.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SjWyZpaZugI/AAAAAAAAAgg/zVX2VNEJVsU/s1600-h/DSC04517.JPG)  
+![](/images/DSC04517.JPG)  
   
 Malgré toute la famille que Zeke a vu pendant la fin de semaine, il avait vraiment hâte de retrouver sa bonne amie Margo. Tous les deux sont pationnés de la gastronomie. Le plaisir d'aller au parc c'est premièrement d'avoir une collation deux secondes après leur l'arrivé au parc.  
   
@@ -32,19 +32,19 @@ Ici Ézékiel démontre un plus grand intéret
 envers sa collation que la balade en foret.  
   
 
-[![](images/DSC04587.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SjWyZzQS4-I/AAAAAAAAAgo/rSSdAitI-Yc/s1600-h/DSC04587.JPG)  
+![](/images/DSC04587.JPG)  
   
 
 Second moment "crucial" de la balade:  
 s'arrêter pour une deuxième collation.  
 
   
-[![](images/DSC04588.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SjWyaElt7OI/AAAAAAAAAgw/UNx2mcuS1Qw/s1600-h/DSC04588.JPG)  
+![](/images/DSC04588.JPG)  
 Puis finalement, samedi je suis devenue accro à une nouvelle drogue: la chasse aux ventes de garage. À 8:00 du matin, Emily, Angie et moi sommes allées à la recherche de petits trésors. Nous avons visité au minimum six places. J'étais tellement énervée lors du trajet d'une place à l'autre. C'est comme si je sentais qu'un objet m'attendais au coin de la rue. C'est assez difficile à décrire comme sentiment. En résumé j'ai fait le bonheur d'Ézékiel pour 3$. Un camion de pompier et une boîte à outils. Ézékiel à beaucoup joué avec ses nouveaux jouets. Son bonheur m'a rendu vraiment heureuse.  
   
 
 Le voici complettement absorbé par sa drill.  
 
   
-[![](images/DSC04605.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SjWyaedUGVI/AAAAAAAAAg4/TyZ7WwUfwSs/s1600-h/DSC04605.JPG)  
+![](/images/DSC04605.JPG)  
 Si vous êtes accro à la même drogue que moi attachez vos tuques parce que l'été ne fait que commencer!

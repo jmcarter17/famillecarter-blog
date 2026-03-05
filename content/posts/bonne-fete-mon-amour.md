@@ -7,7 +7,7 @@ Marjorie,
 
   
 
-[![](images/IMG_3504.JPG)](http://2.bp.blogspot.com/_w5xjs8u1xbM/Sxj7F7L03rI/AAAAAAAAATw/ZF8nOslc6J4/s1600-h/IMG_3504.JPG)  
+![](/images/IMG_3504.JPG)  
 
 Tu es la femme de ma vie et de mes rêves,
 

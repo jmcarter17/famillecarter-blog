@@ -9,7 +9,7 @@ Laissez moi vous partager quelques moments de ma fin de semaine. Jean-Michel et 
 
   
 
-[![](images/DSC09080.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TP5lB4ibyFI/AAAAAAAAA-w/NRJ3cDmykS0/s1600/DSC09080.JPG)
+![](/images/DSC09080.JPG)
 
   
 
@@ -19,7 +19,7 @@ Bref, j'ai été gâté par mon homme pour ma fête et l'un de ses cadeaux à é
 
   
 
-[![](images/DSC09082.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TP5lCVYn39I/AAAAAAAAA-4/Y3-pqgNBCnc/s1600/DSC09082.JPG)
+![](/images/DSC09082.JPG)
 
   
 
@@ -29,7 +29,7 @@ Pendant la soirée j'ai offert à nos amis de coucher leur fille qui dormait, av
 
   
 
-[![](images/DSC09105.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TP5lChJRB4I/AAAAAAAAA_A/Xf7_pvX439Y/s1600/DSC09105.JPG)
+![](/images/DSC09105.JPG)
 
   
 
@@ -37,7 +37,7 @@ Ouf, c'est difficile de prendre un portrait de famille avec de jeunes enfants. S
 
   
 
-[![](images/DSC09121.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TP5lDKkTGtI/AAAAAAAAA_I/in_2jioTeeU/s1600/DSC09121.JPG)
+![](/images/DSC09121.JPG)
 
   
 

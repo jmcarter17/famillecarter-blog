@@ -7,7 +7,7 @@ Dès notre arrivée chez les Caner nous nous sommes senti chaleureusement reçu 
 
   
   
-[![](images/Gen%25C3%25A8ve003.jpg)](http://2.bp.blogspot.com/-bRnQqh_F8DE/Tcb2PuU7AwI/AAAAAAAABI4/XD3ZB09zr6o/s1600/Gen%25C3%25A8ve003.jpg)  
+![](/images/Gen%C3%A8ve003.jpg)  
 
 _**Samedi**_ après-midi le roi, sa femme et ses p'tits princes.
 
@@ -17,7 +17,7 @@ Tout d'abord nous avons marché autour du Lac Léman pour aller voir de plus pr�
 
 Jean-Michel à reçu un bon conseil d'ami alors que nous marchions sur une rue rempli de boutiques hors de prix. Ne jamais laisser sa femme seule sur cette rue avec une carte de crédit en main. On a bien ri... Puis nous avons continué la visite vers la vieille-ville.
 
-[![](images/Gen%25C3%25A8ve015.jpg)](http://1.bp.blogspot.com/-dTc8HcsA8X0/Tcb2P4vRCAI/AAAAAAAABJA/Cu_1_ol9pc0/s1600/Gen%25C3%25A8ve015.jpg)
+![](/images/Gen%C3%A8ve015.jpg)
 
   
 _**  
@@ -29,13 +29,13 @@ Mais tout d'abord après la chapelle il y a eu une chasse aux oeufs dans la cour
 
 La récolte d'Ézékiel  
 
-[![](images/Gen%25C3%25A8ve046.jpg)](http://3.bp.blogspot.com/-_qOptWJAdsQ/Tcb4PK4aKZI/AAAAAAAABJY/1gQBCNuBB5Q/s1600/Gen%25C3%25A8ve046.jpg)
+![](/images/Gen%C3%A8ve046.jpg)
 
   
 Caleb le grand connaisseur de chocolat.  
   
 
-[![](images/Gen%25C3%25A8ve055.jpg)](http://2.bp.blogspot.com/-w9jID8t1LzE/Tcb2xQCoFPI/AAAAAAAABJI/0tq2Z8ZzB0k/s1600/Gen%25C3%25A8ve055.jpg)[![](images/Gen%25C3%25A8ve056.jpg)](http://4.bp.blogspot.com/-LLPWmTZsXOA/Tcb3LCorbpI/AAAAAAAABJQ/6Q9OL8Jyq_k/s1600/Gen%25C3%25A8ve056.jpg)  
+![](/images/Gen%C3%A8ve055.jpg)![](/images/Gen%C3%A8ve056.jpg)  
   
   
   
@@ -54,9 +54,9 @@ Maintenant notre balade du dimanche après-midi. Les fleurs, le canal Thiou, la 
 
   
 
-[![](images/DSC00409.JPG)](http://1.bp.blogspot.com/-1tjvGeRHLeo/TcQNizaDCUI/AAAAAAAABIA/fjsrHIeERMQ/s1600/DSC00409.JPG)
+![](/images/DSC00409.JPG)
 
-[![](images/DSC00412.JPG)](http://2.bp.blogspot.com/-JksVWuwOjxA/TcQNjPpfRsI/AAAAAAAABII/5n6x10dsvIk/s1600/DSC00412.JPG)
+![](/images/DSC00412.JPG)
 
   
 
@@ -68,19 +68,19 @@ La visite a commencé avec les ruine d'un théâtre romain. Puis nous avons remo
 
 Jean-Michel et Ézékiel nous on offert tout un spectacle devant le théâtre romain.  
 
-[![](images/Gen%25C3%25A8ve083.jpg)](http://4.bp.blogspot.com/-L8b4vbcRqCY/Tcb7Yo_RhCI/AAAAAAAABKA/sUWG5olWI9U/s1600/Gen%25C3%25A8ve083.jpg)
+![](/images/Gen%C3%A8ve083.jpg)
 
 la Basilique de Fourvière
 
-[![](images/DSC00490.JPG)](http://3.bp.blogspot.com/-U08L2D_ewh4/TcQOP_Z9adI/AAAAAAAABIw/vzQppLTV2Tg/s1600/DSC00490.JPG)
+![](/images/DSC00490.JPG)
 
 Avec les Caner  
 
-[![](images/DSC00454.JPG)](http://4.bp.blogspot.com/-UBNo4WWLT60/TcQOPSK8knI/AAAAAAAABIg/3CWqVwvCg8c/s1600/DSC00454.JPG)
+![](/images/DSC00454.JPG)
 
 Dans la vieille ville nous avons aussi découvert les traboules. Ce sont des passages à travers des cours d'immeuble qui permettent de se rendre d'une rue à une autre.
 
-[![](images/DSC00471.jpg)](http://2.bp.blogspot.com/-YHDe_cNek-4/TcQOPiGFyYI/AAAAAAAABIo/2JpZEL44unY/s1600/DSC00471.jpg)
+![](/images/DSC00471.jpg)
 
   
 
@@ -94,11 +94,11 @@ Arrivé à la gare nous avons eu un excellent point de vue sur la Mer de Glace. 
 
   
 
-[![](images/Gen%25C3%25A8ve155.jpg)](http://1.bp.blogspot.com/-0WRcP7eLnC4/Tcb4PfSvOMI/AAAAAAAABJg/K6CATZiUbOs/s1600/Gen%25C3%25A8ve155.jpg)
+![](/images/Gen%C3%A8ve155.jpg)
 
-[![](images/Gen%25C3%25A8ve164.jpg)](http://2.bp.blogspot.com/-JcOcreDl9zo/Tcb4PiSn0RI/AAAAAAAABJo/ZCAdQNIaJXY/s1600/Gen%25C3%25A8ve164.jpg)
+![](/images/Gen%C3%A8ve164.jpg)
 
-[![](images/Gen%25C3%25A8ve206.jpg)](http://1.bp.blogspot.com/-jQC8r41AJTw/Tcb5Ngoi-3I/AAAAAAAABJw/Kpf8-x-HTcI/s1600/Gen%25C3%25A8ve206.jpg)
+![](/images/Gen%C3%A8ve206.jpg)
 
   
 
@@ -110,7 +110,7 @@ C'est en compagnie d'une de mes ancienne compagne de mission, Sister Roll, que n
 
 Marjorie et Deb devant le Château d'Yvoire (toujours occupé)  
 
-[![](images/Gen%25C3%25A8ve266.jpg)](http://3.bp.blogspot.com/-hsYAskypCGI/Tcb7ZCF248I/AAAAAAAABKI/upxKAuZfr_0/s1600/Gen%25C3%25A8ve266.jpg)
+![](/images/Gen%C3%A8ve266.jpg)
 
 [  
 ](http://4.bp.blogspot.com/-1v83EIFGPMw/Tcb5N-UYgOI/AAAAAAAABJ4/f35FWxEaH9E/s1600/Gen%25C3%25A8ve241.jpg)

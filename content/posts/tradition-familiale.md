@@ -9,13 +9,13 @@ Cette fois-ci c'était la première fois que nous y avons été avec notre petit
 
 Ça lui a peut-être prit vingt minutes pour manger sa première pomme, mais il n'en a pas gaspillé un p'tit bout de chaire.
 
-[![](images/DSC05805.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/StZy4u378gI/AAAAAAAAAq0/tfKw_j5SsWo/s1600-h/DSC05805.JPG)
+![](/images/DSC05805.JPG)
 
 Dès qu' Ézékiel a vu l'échelle il ne pensait qu'à la grimper. C'est avec quelques sanglots qu'on a du l'en éloigner. Qu'ils sont beaux mes hommes!
 
-[![](images/DSC05820.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/StZy5E59W1I/AAAAAAAAAq8/ZK5rUUdxR40/s1600-h/DSC05820.JPG)
+![](/images/DSC05820.JPG)
 
 Après avoir fait une bonne récolte, nous avons prit des photos de famille. Une belle photo comme ça c'est digne d'être encadrée et exposée.
 
   
-[![](images/DSC05849.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/StZy5hlicZI/AAAAAAAAArE/HOVvumkKULI/s1600-h/DSC05849.JPG)
+![](/images/DSC05849.JPG)

@@ -14,13 +14,13 @@ Après quatre mois de marcher à l'aide des parents,
 Il a découvert ce plaisir d'être libre, mais...  
 
   
-[![](images/DSC03161.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/Scvcz_G4WiI/AAAAAAAAAWk/O5UndD-C9u0/s1600-h/DSC03161.JPG)  
+![](/images/DSC03161.JPG)  
 
 ...il lui reste une vieille habitute.  
 Celle de lever la main pour tenir le doigt de maman ou papa.  
   
 
-[![](images/DSC03639.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/ScvkKfLuF7I/AAAAAAAAAXs/G-MxOsw_J6U/s1600-h/DSC03639.JPG)[![](images/DSC03652.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/ScvkYjfQhXI/AAAAAAAAAX0/b1BpD0dlZ50/s1600-h/DSC03652.JPG)  
+![](/images/DSC03639.JPG)![](/images/DSC03652.JPG)  
   
   
   
@@ -39,44 +39,44 @@ S'il est assi sur quelqu'un ça ne prend pas de temps que...
 hop, on croise les pieds.  
 
   
-[![](images/DSC03337.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/ScvfTfr3AqI/AAAAAAAAAWs/zaRbkhGNpFk/s1600-h/DSC03337.JPG)  
+![](/images/DSC03337.JPG)  
 
 À l'heure des repas on ne voit qu'un pied. L'autre est bien caché sous le cabaret.  
 
   
-[![](images/DSC03631.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/ScvfTjBguHI/AAAAAAAAAW8/pSOfdkvc3-M/s1600-h/DSC03631.JPG)  
+![](/images/DSC03631.JPG)  
 
 Et tout comme papa, les orteilles de bébé font la split.  
 
   
-[![](images/DSC03630.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/ScvfTYNU46I/AAAAAAAAAW0/79QRsvc4-Lk/s1600-h/DSC03630.JPG)  
+![](/images/DSC03630.JPG)  
 
 Quand Zeke prend son bain, impossible de résister à prendre une bonne bouchée de bulles.  
 Ou bien de se costumer en Père Noël.  
 
   
-[![](images/DSC03672.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/Scvg59vDnXI/AAAAAAAAAXE/RQxm4nmz1LI/s1600-h/DSC03672.JPG)  
+![](/images/DSC03672.JPG)  
   
 
 Ézékiel aime aussi se tirer les cheveux. Il faut dire qu'ils deviennent longs.  
 
   
-[![](images/DSC03470.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/Scvg6HIXiGI/AAAAAAAAAXM/mKgHrlJI-LY/s1600-h/DSC03470.JPG)  
+![](/images/DSC03470.JPG)  
 
 Dans les temps de loisirs, notre petit homme écoute son émission préféré: Pyramide.  
 À ses yeux, tout autres émissions d'enfant n'arrivent pas à la cheville de celle-ci.  
 
   
-[![](images/DSC03607.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/Scvg6Jvv11I/AAAAAAAAAXU/4GRb7-4-o4Y/s1600-h/DSC03607.JPG)  
+![](/images/DSC03607.JPG)  
 
 Aussi, il aime faire l'inventaire du recyclage. "On va voir si maman fait bien sa job!"  
 Puis il étale le tout sur le plancher de la cuisine.  
   
-[![](images/DSC03655.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/Scvg6-eifbI/AAAAAAAAAXk/4rAnctx9s_0/s1600-h/DSC03655.JPG)  
+![](/images/DSC03655.JPG)  
   
 Et pour terminer, Ézékiel fait ce dont il est le meilleur...  
 Pas juste dodo, mais surtout faire craquer ses parents.  
   
-[![](images/DSC03627.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/Scvg6cX1izI/AAAAAAAAAXc/X-22SXD3he0/s1600-h/DSC03627.JPG)  
+![](/images/DSC03627.JPG)  
 
 Vous vous demandez peut-être pourquoi Ézékiel a toujours la bedaine à l'air. Jean-Michel va vous répondre que c'est parce que sa femme monte trop le chauffage dans l'appart. Moi je dit que c'est parcequ'il sue comme son père! Mais en réalité Ézékiel sait bien que ses deux parents on tous les deux raison.

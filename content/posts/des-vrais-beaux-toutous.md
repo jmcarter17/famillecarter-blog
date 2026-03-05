@@ -20,17 +20,17 @@ Grand-maman devant l'entrée du Zoo.
 
   
 
-[![](images/DSCI0394.JPG)](http://2.bp.blogspot.com/-sLsfsuUQgP0/TY3pOuec1VI/AAAAAAAABEg/iuiBaK8F34M/s1600/DSCI0394.JPG)[](http://2.bp.blogspot.com/-MZhY1C-wQZo/TY3pOFtq8zI/AAAAAAAABEY/FVLyXrndLfM/s1600/DSCI0388.JPG)  
+![](/images/DSCI0394.JPG)[](http://2.bp.blogspot.com/-MZhY1C-wQZo/TY3pOFtq8zI/AAAAAAAABEY/FVLyXrndLfM/s1600/DSCI0388.JPG)  
 
 Dans le premier pavillon qui sentait fort le rhinocéros.  
 
   
   
-[![](images/DSCI0381.JPG)](http://4.bp.blogspot.com/-bPfrusrYb6k/TY3pNqpOD_I/AAAAAAAABEQ/ZDhhdv42L4A/s1600/DSCI0381.JPG)  
+![](/images/DSCI0381.JPG)  
   
 
 Dans le pavillon Indo-Malaya
 
   
   
-[![](images/DSCI0388.JPG)](http://2.bp.blogspot.com/-MZhY1C-wQZo/TY3pOFtq8zI/AAAAAAAABEY/FVLyXrndLfM/s1600/DSCI0388.JPG)
+![](/images/DSCI0388.JPG)

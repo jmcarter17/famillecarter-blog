@@ -28,14 +28,14 @@ En deux ans on a été à quelques plages, certaines plus que d'autres. Les voic
 Zeke se fait enterrer dans le sable avec Gavin.  
 
   
-[![](images/DSC05348.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/SnhHBpWXCHI/AAAAAAAAAnI/BsnUxzSrvhI/s1600-h/DSC05348.JPG)  
+![](/images/DSC05348.JPG)  
 
 On prend une petite marche vers le phare.  
 
   
-[![](images/DSC05359.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SnhHCM-c-rI/AAAAAAAAAnQ/2tlPC_13Tno/s1600-h/DSC05359.JPG)  
+![](/images/DSC05359.JPG)  
 
 Avec nous la famille Peterson, Moreton et Vallejos.  
 
   
-[![](images/DSC05365.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SnhHCWi9buI/AAAAAAAAAnY/ZWKJ6OLk0AU/s1600-h/DSC05365.JPG)
+![](/images/DSC05365.JPG)

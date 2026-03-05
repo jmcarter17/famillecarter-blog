@@ -11,7 +11,7 @@ J'ai particulièrement apprécié l'invitation de ma belle-soeur à venir faire 
 
   
 
-[![](images/DSC09305.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TSOA_F8xbcI/AAAAAAAAA_o/KMk9tR5u9ck/s1600/DSC09305.JPG)
+![](/images/DSC09305.JPG)
 
   
 
@@ -23,7 +23,7 @@ Les fêtards du 24
 
   
 
-[![](images/DSC09329.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TSOA_Ya4gnI/AAAAAAAAA_w/5qpVCyz9_Ps/s1600/DSC09329.JPG)
+![](/images/DSC09329.JPG)
 
   
 
@@ -33,7 +33,7 @@ Serait-ce l'idée de développer des cadeaux qui vous garde les yeux ouvert?
 
   
 
-[![](images/DSC09354.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TSOA_76rm7I/AAAAAAAAA_4/WmiDxN29rYs/s1600/DSC09354.JPG)
+![](/images/DSC09354.JPG)
 
   
 
@@ -41,7 +41,7 @@ Caleb qui «Bouffe» son cadeau avant même qu'on ai fini de le développer.
 
   
 
-[![](images/DSC09387.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TSOBAN5u2FI/AAAAAAAABAA/WWZejjPsFLI/s1600/DSC09387.JPG)
+![](/images/DSC09387.JPG)
 
   
 
@@ -49,11 +49,11 @@ Le lendemain au soir, le party était chez la famille Amyot. Deux choses m'ont f
 
   
 
-[![](images/DSC09401.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TSOWx6HBSVI/AAAAAAAABAo/o86y8SUWWek/s1600/DSC09401.JPG)
+![](/images/DSC09401.JPG)
 
   
 
-[![](images/DSC09397.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TSOWxWTaZeI/AAAAAAAABAg/JVQTv6zr5Ck/s1600/DSC09397.JPG)
+![](/images/DSC09397.JPG)
 
   
 

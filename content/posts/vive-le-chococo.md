@@ -14,13 +14,13 @@ C'est ce que nous avons fait vendredi passé en avant-midi. Il faut mentionner q
 
 Zeke nous montre son trésor.
 
-[![](images/DSC06707.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/S758zb91sQI/AAAAAAAAAwc/aicDNZ0qkmU/s1600/DSC06707.JPG)
+![](/images/DSC06707.JPG)
 
   
 
 Cheese!
 
-[![](images/DSC06709.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/S758z6aeacI/AAAAAAAAAwk/IFLj0OReN90/s1600/DSC06709.JPG)
+![](/images/DSC06709.JPG)
 
   
 
@@ -30,7 +30,7 @@ Durant la semaine j'avais vu un petit singe en chocolat sur l'étagère de l'ép
 
 Il le tien comme un trophée, un oscar.
 
-[![](images/DSC06740.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/S7580DUKNPI/AAAAAAAAAws/0yA3CUFIHPM/s1600/DSC06740.JPG)
+![](/images/DSC06740.JPG)
 
   
 
@@ -40,7 +40,7 @@ Maintenant un petit chapitre bedaine... Dimanche après-midi nous avons invité 
 
 Emily (5 mois), Marjorie (7 mois) et Angie (8 mois)
 
-[![](images/DSC06746.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/S7580gwP4SI/AAAAAAAAAw0/Eu_fLvfh-2E/s1600/DSC06746.JPG)
+![](/images/DSC06746.JPG)
 
   
 
@@ -48,4 +48,4 @@ Ce n'ai pas la seule fois de la semaine que j'ai comparé mon ventre. Mardi nous
 
   
 
-[![](images/DSC06681.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/S758ywI1CkI/AAAAAAAAAwU/-q7M81Nsr5o/s1600/DSC06681.JPG)
+![](/images/DSC06681.JPG)

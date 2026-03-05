@@ -3,7 +3,7 @@ title: "Que du plaisir au champ de fraises"
 date: 2011-07-12T18:09:00.000Z
 ---
 
- [![](images/DSC01738.JPG)](http://1.bp.blogspot.com/-mOsrnrU8irc/ThyF-m1L-AI/AAAAAAAABTc/dohuXFeGb-c/s1600/DSC01738.JPG)
+ ![](/images/DSC01738.JPG)
 
 Pour une deuxième année consécutives, nous avons été cueillir des belles fraises rouges. C'est toujours une belle sortie à faire en famille.
 
@@ -11,7 +11,7 @@ Pour une deuxième année consécutives, nous avons été cueillir des belles fr
 
 En direction d'un bout de champ où les fraises sont grosses, rouges et bien juteuses!
 
-[![](images/DSC01718+-+Version+2.jpg)](http://2.bp.blogspot.com/-QJOi5zhBhqw/ThyFLV65SjI/AAAAAAAABTM/7EN9oXRt3f4/s1600/DSC01718+-+Version+2.jpg)
+![](/images/DSC01718+-+Version+2.jpg)
 
   
 
@@ -19,35 +19,35 @@ Contrairement à l'année passée, Ézékiel à beaucoup aimé ramasser des peti
 
   
 
-[![](images/DSC01723.JPG)](http://3.bp.blogspot.com/-oIp9--PpaaQ/ThyFZT-FKLI/AAAAAAAABTQ/Jp_ZlSxI11o/s1600/DSC01723.JPG)
+![](/images/DSC01723.JPG)
 
   
 
  Maman et papa au travail.
 
-[![](images/DSC01726+-+Version+2.jpg)](http://1.bp.blogspot.com/-uKSawCzY_M4/ThyFnQbSLOI/AAAAAAAABTU/nUKDSPgUxm8/s1600/DSC01726+-+Version+2.jpg)
+![](/images/DSC01726+-+Version+2.jpg)
 
   
 
-[![](images/DSC01729.JPG)](http://1.bp.blogspot.com/-SUsz7xHbM88/ThyFzTtpVAI/AAAAAAAABTY/XOzfMworngY/s1600/DSC01729.JPG)
+![](/images/DSC01729.JPG)
 
   
 
  Une petite pause bien mérité.
 
-[![](images/DSC01747+-+Version+2.jpg)](http://1.bp.blogspot.com/-WNPh69eIYzs/ThyGGo3zvnI/AAAAAAAABTg/BoTb9dnKToQ/s1600/DSC01747+-+Version+2.jpg)
+![](/images/DSC01747+-+Version+2.jpg)
 
   
 
  Caleb qui pousse, lui aussi.
 
-[![](images/DSC01752+-+Version+2.jpg)](http://3.bp.blogspot.com/-_BTqdOx7-PM/ThyGSZbltoI/AAAAAAAABTk/hlIWZ7Ev6ZI/s1600/DSC01752+-+Version+2.jpg)
+![](/images/DSC01752+-+Version+2.jpg)
 
   
 
  Et puis il y avait une aire de jeux pour bien récompenser nos petits braves.
 
-[![](images/DSC01760.JPG)](http://4.bp.blogspot.com/-MHIKWvOSieM/ThyGaeHjvZI/AAAAAAAABTo/-2iLE4_Uyn8/s1600/DSC01760.JPG)
+![](/images/DSC01760.JPG)
 
   
 

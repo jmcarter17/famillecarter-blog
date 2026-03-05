@@ -15,7 +15,7 @@ Ici deux de mes hommes heureux comme tout.
 
   
 
-[![](images/DSC09463.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TSPio0wMnbI/AAAAAAAABAw/2CVcmo07ydc/s1600/DSC09463.JPG)
+![](/images/DSC09463.JPG)
 
   
 
@@ -23,7 +23,7 @@ Caleb aussi y était. C'était un p'tit peu froid pour lui, mais il n'a rien dit
 
   
 
-[![](images/DSC09465.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TSPipS4Rh2I/AAAAAAAABA4/NpWmygYWV0E/s1600/DSC09465.JPG)
+![](/images/DSC09465.JPG)
 
   
 
@@ -31,7 +31,7 @@ Avec mes trois soeurettes, Audrey, Mélanie, moi et Martine.
 
   
 
-[![](images/DSC09476.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TSPipswcVoI/AAAAAAAABBA/JY8Ann_OnZo/s1600/DSC09476.JPG)
+![](/images/DSC09476.JPG)
 
   
 
@@ -41,7 +41,7 @@ Ici avec mes deux trésors d'amour.
 
   
 
-[![](images/DSC09503.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TSPisPNfxlI/AAAAAAAABBI/9_idZF23F30/s1600/DSC09503.JPG)
+![](/images/DSC09503.JPG)
 
   
 
@@ -49,7 +49,7 @@ Au chalet, Jean-Michel et Philippe se sont montré bien courageux. Ils ont entre
 
   
 
-[![](images/DSC09512.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TSPisaAr9PI/AAAAAAAABBQ/QCB1kR1fpWU/s1600/DSC09512.JPG)
+![](/images/DSC09512.JPG)
 
   
 
@@ -57,7 +57,7 @@ C'est ti pas beau ça?
 
   
 
-[![](images/DSC09538.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TSPjynWHAII/AAAAAAAABBY/9v3Y5dCpgYQ/s1600/DSC09538.JPG)
+![](/images/DSC09538.JPG)
 
   
 

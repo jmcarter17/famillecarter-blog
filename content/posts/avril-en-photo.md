@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/Avril%2Ben%2BPhoto.jpg)](http://2.bp.blogspot.com/-zyb9lg-NRh4/Tdv7vusKt5I/AAAAAAAABQI/-h3UoC9y-xc/s1600/Avril%2Ben%2BPhoto.jpg)  
+![](/images/Avril+en+Photo.jpg)  
   
 
 Je vais appeler le mois d'Avril « La Première fois ». Vous allez bien vite comprendre pourquoi. Aussi, désolée, les photos ne sont pas en ordre.

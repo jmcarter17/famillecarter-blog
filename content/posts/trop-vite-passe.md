@@ -17,13 +17,13 @@ En après-midi j'étais toute énervée d'aller chercher "La Mama" au terminal. 
 
 "La Mama" au jardin botanique  
 
-[![](images/DSC05743.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/SrgVRjnbWLI/AAAAAAAAAqQ/q-pD2ntrJhI/s1600-h/DSC05743.JPG)
+![](/images/DSC05743.JPG)
 
 Autre nouvelle, durant le sejour de grand-maman Ézékiel est tombé pour la première fois de sa bassinet. Une chance pour lui, il est atterri sur le matelat gonflable de ma mère. Un peu secoué par la chute, Zeke nous a bien fait comprendre qu'il a eu peur. Résultat dès le départ de ma maman, Jean-Michel à entreprit de changer la bassinet en lit. Toute une adaptation pour notre petit homme. Pas facile de savoir où sont les limites du lit quand on dort.
 
   
 
-[![](images/DSC05757.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SrgVSJry3ZI/AAAAAAAAAqY/pFjQ0KjTBWI/s1600-h/DSC05757.JPG)
+![](/images/DSC05757.JPG)
 
   
 
@@ -31,7 +31,7 @@ Ici on voit un peu de progrès. Il y a espoir!
 
   
 
-[![](images/DSC05758.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SrgVSq78C9I/AAAAAAAAAqg/CoYIvRIJB1A/s1600-h/DSC05758.JPG)  
+![](/images/DSC05758.JPG)  
 
 Vendredi on retourne à la petite routine. Puis, on va chez notre amie Emily qui nous a acheté une grosse poche de (50) pêches pour 10$. Méchant bon deal! Qu'est ce que je pouvais bien faire avec 50 pêches??? Des pêches en conserve, déshydratées, congelées, en tarte, servies dans un coulis sucré et naturellement mangé tel quel.  
 

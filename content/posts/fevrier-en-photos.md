@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/F%25C3%25A9vrier%2Ben%2BPhoto.jpg)](http://4.bp.blogspot.com/-RLmHYw432zo/TXUidzopSiI/AAAAAAAABDQ/bN5YRfh435Y/s1600/F%25C3%25A9vrier%2Ben%2BPhoto.jpg)  
+![](/images/F%C3%A9vrier+en+Photo.jpg)  
   
   
 

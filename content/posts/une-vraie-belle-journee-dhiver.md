@@ -11,4 +11,4 @@ Lorsqu'on est rentré chez nous on a croisé des personnes et on s'est exclamé 
 
 Puis on a fini la soirée avec une game des canadiens. Les hommes lisaient leurs livres sur le hockey. Vous pouvez le dire... c'est soirs là on fait un vrai lavage de cerveaux.
 
-Samedi réussi![![samedi](images/samedi-1024x1024.jpg)](http://famillecarter.com/blog/2013/02/une-vraie-belle-journee-dhiver/samedi/)
+Samedi réussi![![samedi](/images/samedi-1024x1024.jpg)](http://famillecarter.com/blog/2013/02/une-vraie-belle-journee-dhiver/samedi/)

@@ -15,13 +15,13 @@ Du coté Caleb, le petit coquin a trouvé son poing, puis ses deux doigts. Il ne
 
 Jean-Michel devant la scène du SAVIOR OF THE WORLD.
 
-[![](images/DSC07910.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TGyEHyWm_vI/AAAAAAAAA3w/cg_nWVtvnF8/s1600/DSC07910.JPG)
+![](/images/DSC07910.JPG)
 
   
 
 Zeke focusé sur un de ses films.
 
-[![](images/DSC07925.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TGyEIGsLK6I/AAAAAAAAA34/wx3YrNDUp68/s1600/DSC07925.JPG)
+![](/images/DSC07925.JPG)
 
   
 
@@ -29,4 +29,4 @@ Cal, qui déguste et redéguste.
 
   
 
-[![](images/DSC07954.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TGyEI1UkeZI/AAAAAAAAA4A/l5ROsAMHwx8/s1600/DSC07954.JPG)
+![](/images/DSC07954.JPG)

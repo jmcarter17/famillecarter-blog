@@ -9,13 +9,13 @@ Tout énervé, le matin même de bonne heure nous sommes partis toute la petite 
 
 Voici une photo de la réunion. Une chance qu'il y a un bon Zoom sur la caméra. Ça prouve en quelque sorte qu'on à pas vu grand chose de la réunion. On peut voir le prophète à gauche de l'orateur. Le tout à durée une heure et demi. Ça n'a pas été facile avec les enfants et la pluie, mais nous étions très heureux d'entendre le prophète.  
 
-[![](images/DSC01631.JPG)](http://3.bp.blogspot.com/-HFc7DUXyBG8/TgdWEMaNqTI/AAAAAAAABSc/T0Iv3IVtLB4/s1600/DSC01631.JPG)
+![](/images/DSC01631.JPG)
 
   
 
 Jean-Michel et Zeke qui se cachent de la pluie.
 
-[![](images/DSC01624.JPG)](http://4.bp.blogspot.com/-GE-2O0QgUYI/TgdWYX6JjCI/AAAAAAAABSs/8rwYAVRkSo0/s1600/DSC01624.JPG)
+![](/images/DSC01624.JPG)
 
   
 
@@ -25,13 +25,13 @@ Celui-ci à été de cette humeur durant 95% de notre sortie.
 
 Pas facile, pas facile.
 
-[![](images/DSC01627.JPG)](http://4.bp.blogspot.com/-f2GSI6oCsXE/TgdWET9RXKI/AAAAAAAABSk/Jc5W59rd9MA/s1600/DSC01627.JPG)
+![](/images/DSC01627.JPG)
 
   
 
 Après la réunion nous avons eu l'agréable surprise de rencontrer des amis. Plusieurs personnes de la rive-sud de Montréal étaient venues, ainsi qu'une bonne partie des membres de Gatineau. Toute une surprise d'avoir vu la belle Cat.
 
-[![](images/DSC01648.JPG)](http://1.bp.blogspot.com/-HU5SSaVlV6g/TgdWDrIRhAI/AAAAAAAABSU/AfcJaqrU8IQ/s1600/DSC01648.JPG)
+![](/images/DSC01648.JPG)
 
   
 
@@ -39,13 +39,13 @@ Puis lorsque tout le monde s'est dispersé nous avons été faire un tour pour v
 
 Le site Good Works #7
 
-[![](images/DSC01649.JPG)](http://4.bp.blogspot.com/-GaoX-dWvcRg/TgdWDcChT8I/AAAAAAAABSM/pD0qnReQjlA/s1600/DSC01649.JPG)
+![](/images/DSC01649.JPG)
 
   
 
 Jean-Michel qui parle avec Marc avant de repartir.
 
-[![](images/DSC01650%2B-%2BVersion%2B2.jpg)](http://1.bp.blogspot.com/-RBTXuVXuoU4/TgdWDG3noaI/AAAAAAAABSE/tzI_xjJ8_PU/s1600/DSC01650%2B-%2BVersion%2B2.jpg)
+![](/images/DSC01650+-+Version+2.jpg)
 
   
 

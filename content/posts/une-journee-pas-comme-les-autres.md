@@ -24,19 +24,19 @@ Le gros changement pour Ézékiel fut de changer de lit de bébé pour un lit à
 
 Le gâteau d'anniversaire
 
-[![](images/DSC06609.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/S5mkXerC1QI/AAAAAAAAAuo/kQ7MMlHgohg/s1600-h/DSC06609.JPG)
+![](/images/DSC06609.JPG)
 
 Le cercle d'ami. C'était aussi la fête de Gavin, 3 ans. (à gauche)
 
-[![](images/DSC06612.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/S5mkXtsOCMI/AAAAAAAAAuw/8SamInhwEMg/s1600-h/DSC06612.JPG)
+![](/images/DSC06612.JPG)
 
 Ézékiel y va pour la fraise...
 
-[![](images/DSC06616.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/S5mkX1gxvYI/AAAAAAAAAu4/D5NbXOPd75E/s1600-h/DSC06616.JPG)
+![](/images/DSC06616.JPG)
 
 C'est l'heure d'ouvrir les cadeaux
 
-[![](images/DSC06635.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/S5mkYXgP7iI/AAAAAAAAAvA/_r2-IYscUuU/s1600-h/DSC06635.JPG)
+![](/images/DSC06635.JPG)
 
 Puis ici papa à gardé son cadeau pour
 
@@ -45,4 +45,4 @@ le jour même de la fête d'Ézékiel.
 Vive « ha-go » !
 
   
-[![](images/DSC06643.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/S5mkYvWEBfI/AAAAAAAAAvI/p7sGxrfZPwA/s1600-h/DSC06643.JPG)
+![](/images/DSC06643.JPG)

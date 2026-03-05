@@ -17,7 +17,7 @@ C'est par hasard que j'ai découvert le film «North & South» d'Elizabeth Gaske
 
   
 
-[![](images/North%252B%2526%252BSouth_279.jpg)](http://1.bp.blogspot.com/-t2ganRoxBKw/TXL12fEf44I/AAAAAAAABDI/N_2GuxpWg4U/s1600/North%252B%2526%252BSouth_279.jpg)
+![](/images/North%2B%26%2BSouth_279.jpg)
 
   
 

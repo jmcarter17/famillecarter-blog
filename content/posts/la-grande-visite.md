@@ -10,7 +10,7 @@ Comme vendredi la température n'était pas très belle, nous avons été au Fan
 
   
 
-[![](images/DSC07508.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TFIrn_xZydI/AAAAAAAAA2w/Ls80Wfg0_fo/s1600/DSC07508.JPG)
+![](/images/DSC07508.JPG)
 
   
 
@@ -18,31 +18,31 @@ Le samedi, malgré le ciel gris, nous avons enfilé nos maillots de bain à 9h e
 
 Y a-t'il du sable sur vos pêches les gars? Oh que oui!
 
-[![](images/DSC07774.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TFIroSsrKXI/AAAAAAAAA24/RiElKPLrVTQ/s1600/DSC07774.JPG)
+![](/images/DSC07774.JPG)
 
   
 
 Trop beaux les cousins.
 
-[![](images/DSC07787.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TFIrokKalpI/AAAAAAAAA3A/jxXh_9Te6qo/s1600/DSC07787.JPG)
+![](/images/DSC07787.JPG)
 
   
 
 Dimanche après les réunions on a fait une belle balade dans le parc de «Toronto Islands». Pour y accéder nous avons prit un traversier. Zeke et Pouss-pouss étaient très casse-cou. Une chance les papas ne lâchaient pas prise.
 
-[![](images/DSC07814.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TFIrpYT9j6I/AAAAAAAAA3I/A7u-xkgeySs/s1600/DSC07814.JPG)[![](images/DSC07816.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TFIrpowQWxI/AAAAAAAAA3Q/A8VB70_bNMc/s1600/DSC07816.JPG)
+![](/images/DSC07814.JPG)![](/images/DSC07816.JPG)
 
   
 
 La famille Salm
 
-[![](images/DSC07828.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TFIs7mGhSvI/AAAAAAAAA3Y/ACKrL7u-7F4/s1600/DSC07828.JPG)
+![](/images/DSC07828.JPG)
 
   
 
 Notre beau groupe devant Toronto.
 
-[![](images/DSC07876.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TFIs8G6vJlI/AAAAAAAAA3g/IaRtiFL5yAA/s1600/DSC07876.JPG)
+![](/images/DSC07876.JPG)
 
   
 

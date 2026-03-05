@@ -11,7 +11,7 @@ Par contre je me suis reprise. Mon amie Emily a maintenant 7 mois de grossesse e
 
   
 
-[![](images/DSC06798.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/S-dxagwO9UI/AAAAAAAAAxM/Mt_CPeQ3cPk/s1600/DSC06798.JPG)
+![](/images/DSC06798.JPG)
 
   
 
@@ -25,7 +25,7 @@ Toujours dans ce chapitre, demain nous avons une super soirée familiale de pré
 
   
 
-[![](images/DSC06816.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/S-dxbte1SdI/AAAAAAAAAxc/_wuhn54r8nA/s1600/DSC06816.JPG)
+![](/images/DSC06816.JPG)
 
   
 
@@ -37,7 +37,7 @@ Selon ce que j'ai constaté durant cette fin de semaine, il semblerait que de vo
 
   
 
-[![](images/DSC06801.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/S-dxbA9T7mI/AAAAAAAAAxU/QjLqQkJZ6j4/s1600/DSC06801.JPG)
+![](/images/DSC06801.JPG)
 
   
 

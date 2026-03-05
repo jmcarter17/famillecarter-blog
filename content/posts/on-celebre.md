@@ -14,13 +14,13 @@ Je n'avais aucune idée de l'endroit où Jean-Michel voulait m'amener pour soupe
 Ici je lève mon verre à une autre belle année de passé et une autre à venir.  
 
   
-[![](images/DSC02698.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SUE807OkcnI/AAAAAAAAAM0/Eh5HWwXaJaE/s1600-h/DSC02698.JPG)  
+![](/images/DSC02698.JPG)  
 Jean-Michel lui se régale avec du calmars grillers.  
   
-[![](images/DSC02697.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SUE9yqxEqKI/AAAAAAAAAM8/Ff2VnWO4UVU/s1600-h/DSC02697.JPG)  
+![](/images/DSC02697.JPG)  
 Même si j'étais pleine à craquer j'ai eu droit à une pointe de gâteau au fromage...que j'ai à peine touché!  
   
-[![](images/DSC02703.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SUE9zHGfAzI/AAAAAAAAANE/7rxudnB7rmo/s1600-h/DSC02703.JPG)  
+![](/images/DSC02703.JPG)  
 
 Lorsqu'on avait gardé pour les Devenney's on avait bien ri d'eu lorqu'ils sont revenus à la maison à 10h p.m. "Quand on va avoir notre bébé, ça sera pas notre cas!" qu'on s'était dit.  
 Jean-Michel avait prévu d'aller au cinéma après avoir mangé et bien devinez quoi? On s' était tellement bourré qu'on a eu de la difficulté à se rendre à l'auto. Aussi pathétique que ça peut sembler, on était de retour à 9:30 p.m. et bien heureux d'être à la maison.  
@@ -29,9 +29,9 @@ En tout cas, le dimanche qui a suivi on a invité des amis à venir prendre une 
   
 Ici je pense profondément à mon voeux... à ne pas prendre à la légere!  
   
-[![](images/DSC02715.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SUE9zn8wrVI/AAAAAAAAANM/h8kaxZuEjh8/s1600-h/DSC02715.JPG)  
+![](/images/DSC02715.JPG)  
 J'ai soufflé sur le gâteau en chocolat qu'Emily m'a fait. Après ça, il y avait un méchant nuage de boucan dans l'appart. Bon j'en met un peu...  
   
-[![](images/DSC02717.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/SUE90LVgtHI/AAAAAAAAANU/vGUsgoA2uu4/s1600-h/DSC02717.JPG)Pour terminer, je voulais vous montrer la belle plante que Jean-Michel m'a acheté. Un gros poinsettia. Malheureusement il est en train de mourir. Je pense avoir mi trop d'eau. Je vais être meilleure la prochaine fois... je l'espère.  
+![](/images/DSC02717.JPG)Pour terminer, je voulais vous montrer la belle plante que Jean-Michel m'a acheté. Un gros poinsettia. Malheureusement il est en train de mourir. Je pense avoir mi trop d'eau. Je vais être meilleure la prochaine fois... je l'espère.  
   
-[![](images/DSC02707.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SUE90hOncDI/AAAAAAAAANc/t1jzo28X0_g/s1600-h/DSC02707.JPG)
+![](/images/DSC02707.JPG)

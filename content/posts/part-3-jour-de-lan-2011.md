@@ -9,7 +9,7 @@ Dans la famille Carter nous avons souligné le jour de l'an avec la fameuse racl
 
   
 
-[![](images/DSC09549.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TSPq_6-OYqI/AAAAAAAABBg/iVtuYjjyldE/s1600/DSC09549.JPG)
+![](/images/DSC09549.JPG)
 
   
 
@@ -19,7 +19,7 @@ Les tables des enfants
 
   
 
-[![](images/DSC09551.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TSPrAFZ4FYI/AAAAAAAABBo/dpY1rBW95Lw/s1600/DSC09551.JPG)
+![](/images/DSC09551.JPG)
 
   
 
@@ -27,7 +27,7 @@ Et oui, Mic est un enfant...
 
   
 
-[![](images/DSC09553.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TSPrAuDsZQI/AAAAAAAABBw/RnYiByeWBX8/s1600/DSC09553.JPG)
+![](/images/DSC09553.JPG)
 
   
 
@@ -35,7 +35,7 @@ La table des adultes. Pas si adultes que ça...hi hi hi!
 
   
 
-[![](images/DSC09565.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TSPrAzgtlwI/AAAAAAAABB4/mz5_jP7-vRA/s1600/DSC09565.JPG)
+![](/images/DSC09565.JPG)
 
   
 
@@ -47,7 +47,7 @@ les desserts!
 
   
 
-[![](images/DSC09580.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TSPrBQCWPmI/AAAAAAAABCA/7gJApg_pFcc/s1600/DSC09580.JPG)
+![](/images/DSC09580.JPG)
 
   
 

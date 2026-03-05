@@ -25,9 +25,9 @@ Faite comme notre expert Caleb: étendre, étendre et étendre tous les ingrédi
 
 Appliquez-le comme ici.
 
-[![](images/DSC00076.jpg)](http://4.bp.blogspot.com/-7bT6lhOp_qo/Tah_tW2cCRI/AAAAAAAABGQ/rS1mk9k7ZVY/s1600/DSC00076.jpg)
+![](/images/DSC00076.jpg)
 
-[![](images/DSC00077.jpg)](http://3.bp.blogspot.com/-gUjMwV48i5o/Tah_-2EdVpI/AAAAAAAABGY/Wsv4w5IONJU/s1600/DSC00077.jpg)
+![](/images/DSC00077.jpg)
 
   
 
@@ -51,7 +51,7 @@ Appliquez-le comme ici.
 
 Simple et efficace.
 
-[![](images/DSC00079.jpg)](http://2.bp.blogspot.com/-0Csu2hpNtpU/TaiANH2vLcI/AAAAAAAABGg/tjL-lqI3dWk/s1600/DSC00079.jpg)
+![](/images/DSC00079.jpg)
 
   
 

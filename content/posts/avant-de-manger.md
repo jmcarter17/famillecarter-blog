@@ -11,7 +11,7 @@ Cette photo à été prise plus d'une demi-heure après avoir passé le test, do
 
   
 
-[![](images/DSC06651.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/S6FqIyolu3I/AAAAAAAAAvQ/AxCmXtEF1jk/s1600-h/DSC06651.JPG)
+![](/images/DSC06651.JPG)
 
   
 

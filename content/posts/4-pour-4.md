@@ -10,14 +10,14 @@ Cette semaine, la famille Vallée est venue nous visiter pour deux jours. On ét
 Comme il y a plusieurs plages près de chez nous, on a voulu les amener à la plage de Brimley qui donne sur le Lac Ontario. Comme vous pouvez voir, ils sont tombé sous le charme du beau paysage.  
 
   
-[![](images/DSC05327.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SnOWjfc3RbI/AAAAAAAAAmQ/YTbbW8bpsx4/s1600-h/DSC05327.JPG)  
+![](/images/DSC05327.JPG)  
   
 
 De plus nous avons fraternisé avec  
 ses nouveaux résidents, les mouettes.  
 
   
-[![](images/DSC05330.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SnOWjBRRf-I/AAAAAAAAAmI/8iR60R4oY54/s1600-h/DSC05330.JPG)  
+![](/images/DSC05330.JPG)  
   
 
 En vérité la plage est dans cet état du à la grève des poubelles qui dure depuis plus de 5 semaines. Heureusement pour nous, la situation a été règlé cette semaine. Mais il reste encore à tout nettoyer les dégâts.  
@@ -29,28 +29,28 @@ Malgré ce petit incovénient, on a quand même passé du très bon temps là-ba
 Audrey avec ses deux puces Mégane et Camille.  
 
   
-[![](images/DSC05314.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SnOWkgjOSUI/AAAAAAAAAmo/MaJBeoBLhhw/s1600-h/DSC05314.JPG)  
+![](/images/DSC05314.JPG)  
   
 
 Jean-Michel qui essaye de convaincre Ézékiel de venir jouer dans l'eau.  
   
 
   
-[![](images/DSC05321.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/SnOWkdnuRQI/AAAAAAAAAmg/QkhWDC_eahk/s1600-h/DSC05321.JPG)  
+![](/images/DSC05321.JPG)  
   
 
 La maman qui suit son caneton partout où il va.  
   
   
-[![](images/DSC05308.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/SnOckzO3pHI/AAAAAAAAAmw/ygEUeohAT94/s1600-h/DSC05308.JPG)  
+![](/images/DSC05308.JPG)  
 On se souvien par coeur des foufounes blanches de Jude  
 et on est toujours aussi interrogé sur la nationalité de Mic.  
   
-[![](images/DSC05322.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/SnOWkJZR2aI/AAAAAAAAAmY/bM64DeMysAY/s1600-h/DSC05322.JPG)  
+![](/images/DSC05322.JPG)  
   
 
 Comme souvenir nous avons rapporté  
 une bonne pochetté de sable: dans les cheveux, les maillos, ...  
 
   
-[![](images/DSC05290.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/SnOclUxPoMI/AAAAAAAAAm4/4tw3n9QJCUY/s1600-h/DSC05290.JPG)
+![](/images/DSC05290.JPG)

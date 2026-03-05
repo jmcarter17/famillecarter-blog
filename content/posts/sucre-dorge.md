@@ -5,7 +5,7 @@ date: 2010-10-14T03:34:00.000Z
 
 [  
 ](http://2.bp.blogspot.com/_ToTXtyv4mUo/TLz2EteBo2I/AAAAAAAAA7A/r3XdncOnS-E/s1600/DSC08491.JPG)  
-[![](images/DSC08378.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TLZ66spDN8I/AAAAAAAAA6g/tvr3qVDDndo/s1600/DSC08378.JPG)  
+![](/images/DSC08378.JPG)  
   
 
 Depuis le mois de septembre toute la famille est rentrée dans une petite routine qui n'a rien d'ennuyeux. J'ai le goût de vous parler d'une journée en particulier qui a été bien active.
@@ -20,7 +20,7 @@ Mercredi passé j'ai reçu les enfants à la maison pour la première fois. Le t
 
   
 
-[![](images/DSC08414.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TLZ67DMMwdI/AAAAAAAAA6w/-Ws7EeCfshg/s1600/DSC08414.JPG)
+![](/images/DSC08414.JPG)
 
   
 
@@ -32,7 +32,7 @@ Rouge et Blanc (couleurs des canadiens)
 
   
 
-[![](images/DSC08491.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TLz2EteBo2I/AAAAAAAAA7A/r3XdncOnS-E/s1600/DSC08491.JPG)
+![](/images/DSC08491.JPG)
 
   
 
@@ -40,7 +40,7 @@ Jaune comme un petit canard.
 
   
 
-[![](images/DSC08418.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TLz2EdLKLII/AAAAAAAAA64/3QMRqjbzXqc/s1600/DSC08418.JPG)
+![](/images/DSC08418.JPG)
 
   
 
@@ -48,7 +48,7 @@ Aussi cet après-midi là j'ai fait des pommes au sucre d'orge. Je trouve que c'
 
   
 
-[![](images/DSC08383.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TLZ66xVHy_I/AAAAAAAAA6o/aniGM0lP1ys/s1600/DSC08383.JPG)
+![](/images/DSC08383.JPG)
 
   
 

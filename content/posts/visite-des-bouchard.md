@@ -10,7 +10,7 @@ date: 2010-03-25T01:36:00.000Z
 
 Maman et Zeke au Centre des Sciences
 
-[![](images/DSC06672.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/S6q-irCEeFI/AAAAAAAAAwE/kIv9zf1oDoU/s1600/DSC06672.JPG)
+![](/images/DSC06672.JPG)
 
   
 
@@ -22,7 +22,7 @@ Pendant nos séances de jeu intensive, Ézékiel et Zoé ont eu amplement le tem
 
 Zoé et Ézékiel qui partagent des poissons.  
 
-[![](images/DSC06652.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/S6q-jDxJ7KI/AAAAAAAAAwM/aIWcv1xbALQ/s1600/DSC06652.JPG)
+![](/images/DSC06652.JPG)
 
   
 

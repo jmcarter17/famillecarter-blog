@@ -5,7 +5,7 @@ categories:
   - "mois-en-photos"
 ---
 
-[![](images/ASAT%2B1%2Bcopy.jpg)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TURaBMRyyjI/AAAAAAAABCU/X5Z300WOuEw/s1600/ASAT%2B1%2Bcopy.jpg)  
+![](/images/ASAT+1+copy.jpg)  
   
 
 Au début de l'année on m'a fait découvrir le blog «[simple as that](http://rebeccacooper.blogspot.com/2010/12/month-in-photos.html)» d'où j'ai prit le modèle a month in photos. Les cinq photos que j'ai prit pour ce montage ne sont pas spécialement belles, mais elles représentent bien le mois de Janvier.

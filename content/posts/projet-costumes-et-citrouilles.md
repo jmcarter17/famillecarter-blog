@@ -9,7 +9,7 @@ Voici le plan que j'ai suivi... je dois avouer qu'au début je doutait de mes ca
 
   
 
-[![](images/DSC08497.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TNWl1BXeEvI/AAAAAAAAA8g/L3_YHa7sWMM/s1600/DSC08497.JPG)
+![](/images/DSC08497.JPG)
 
   
 
@@ -17,7 +17,7 @@ Finalement le produit m'a semblé faire l'affaire. Donc voici mon Zeke en cheval
 
   
 
-[![](images/DSC08529.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TNWl13NvBpI/AAAAAAAAA8w/UaFAoytVkTI/s1600/DSC08529.JPG)
+![](/images/DSC08529.JPG)
 
   
 
@@ -27,7 +27,7 @@ Comme vous pouvez le constater Ézékiel l'aimait beaucoup « C'est chaud! »
 
   
 
-[![](images/DSC08513.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TNWl1Sdm_sI/AAAAAAAAA8o/Rb3IvofB9to/s1600/DSC08513.JPG)
+![](/images/DSC08513.JPG)
 
   
 
@@ -35,9 +35,9 @@ Nous avons aussi fait des petits gâteaux pour célébrer. Ézékiel est toujour
 
   
 
-[![](images/DSC08570.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TNWmSJgOGzI/AAAAAAAAA9I/MLbOB-q8qR0/s1600/DSC08570.JPG)
+![](/images/DSC08570.JPG)
 
-[![](images/DSC08577.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TNWmSpmtu4I/AAAAAAAAA9Q/RlfOHTS_tCY/s1600/DSC08577.JPG)
+![](/images/DSC08577.JPG)
 
   
 
@@ -47,7 +47,7 @@ Puis vendredi, nous avons été passer aux portes des commerces avec les enfants
 
 Caleb entouré par son fan club, les organisatrices du centre.  
 
-[![](images/DSC08534.JPG)](http://4.bp.blogspot.com/_ToTXtyv4mUo/TNWl2ummuDI/AAAAAAAAA9A/-2zIRv3XJ9I/s1600/DSC08534.JPG)
+![](/images/DSC08534.JPG)
 
   
 
@@ -55,4 +55,4 @@ Caleb entouré par son fan club, les organisatrices du centre.
 
 [  
 ](http://2.bp.blogspot.com/_ToTXtyv4mUo/TNWl13NvBpI/AAAAAAAAA8w/UaFAoytVkTI/s1600/DSC08529.JPG)  
-[![](images/DSC08533.JPG)](http://2.bp.blogspot.com/_ToTXtyv4mUo/TNWl2MrWKQI/AAAAAAAAA84/l4ekFX87dW4/s1600/DSC08533.JPG)
+![](/images/DSC08533.JPG)

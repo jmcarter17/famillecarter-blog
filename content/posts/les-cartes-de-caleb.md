@@ -16,11 +16,11 @@ Pour ceux concerné, d'ici quelques jours attendez-vous à recevoir un petit que
 
   
 
-[![](images/DSC07487.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TEGZrTfYbTI/AAAAAAAAA08/DkQ8Sy0q6W4/s1600/DSC07487.JPG)En français  
+![](/images/DSC07487.JPG)En français  
 
   
 
-[![](images/DSC07490_2.JPG)](http://1.bp.blogspot.com/_ToTXtyv4mUo/TEGZrhqDaeI/AAAAAAAAA1E/edqgXnES3MA/s1600/DSC07490_2.JPG)En anglais  
+![](/images/DSC07490_2.JPG)En anglais  
 
   
-[![](images/DSC07495_2.JPG)](http://3.bp.blogspot.com/_ToTXtyv4mUo/TEGZsTMOlMI/AAAAAAAAA1M/FD_d9zXTOpE/s1600/DSC07495_2.JPG)
+![](/images/DSC07495_2.JPG)
