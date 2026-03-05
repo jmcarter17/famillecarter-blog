@@ -1,0 +1,10 @@
+baseURL = "https://blog.famillecarter.com/"
+languageCode = "fr-ca"
+title = "Les Super-Héros Carter"
+theme = "ananke"
+
+[pagination]
+pagerSize = 10
+
+[params]
+description = "Un journal de famille"
