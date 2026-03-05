@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <main class="pb7" role="main">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      {{ $key := .Params.monthKey | default .Title }}
+      {{ $t := time.AsTime (printf "%s-01" $key) }}
+
+      <header>
+        <h1 class="f1">{{ $t.Format "January 2006" }}</h1>
+      </header>
+
+      {{ $posts := where site.RegularPages "Section" "posts" }}
+      {{ $posts = where $posts ".Date.Format" "2006-01" $key }}
+      {{ $posts = $posts.ByDate.Reverse }}
+
+      <ul class="list pl0 mt4">
+        {{ range $posts }}
+          <li class="mv2">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <span class="gray"> — {{ .Date.Format "2006-01-02" }}</span>
+          </li>
+        {{ end }}
+      </ul>
+
+      <div class="mt5">
+        <a class="link dim mid-gray" href="{{ "archives/" | relURL }}">← Back to Archives</a>
+      </div>
+    </article>
+  </main>
+{{ end }}

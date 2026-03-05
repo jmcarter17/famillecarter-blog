@@ -1,0 +1,47 @@
+{{ define "main" }}
+  <main class="pb7" role="main">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      {{ $key := .Params.monthKey | default "" }}
+
+      {{/* Root /months/ page: list all month pages */}}
+      {{ if not (findRE "^\\d{4}-\\d{2}$" $key) }}
+        <header>
+          <h1 class="f1">Months</h1>
+        </header>
+        <ul class="list pl0 mt4">
+          {{ range .Pages.ByTitle.Reverse }}
+            <li class="mv2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+        <div class="mt5">
+          <a class="link dim mid-gray" href="{{ "archives/" | relURL }}">← Back to Archives</a>
+        </div>
+      {{ else }}
+        {{ $t := time.AsTime (printf "%s-01" $key) }}
+        <header>
+          <h1 class="f1">{{ $t.Format "January 2006" }}</h1>
+        </header>
+
+        {{ $posts := where site.RegularPages "Section" "posts" }}
+        {{ $start := time.AsTime (printf "%s-01" $key) }}
+        {{ $end := $start.AddDate 0 1 0 }}
+        {{ $posts = where $posts "Date" ">=" $start }}
+        {{ $posts = where $posts "Date" "<" $end }}
+        {{ $posts = $posts.ByDate.Reverse }}
+
+        <ul class="list pl0 mt4">
+          {{ range $posts }}
+            <li class="mv2">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <span class="gray"> — {{ .Date.Format "2006-01-02" }}</span>
+            </li>
+          {{ end }}
+        </ul>
+
+        <div class="mt5">
+          <a class="link dim mid-gray" href="{{ "archives/" | relURL }}">← Back to Archives</a>
+        </div>
+      {{ end }}
+    </article>
+  </main>
+{{ end }}
