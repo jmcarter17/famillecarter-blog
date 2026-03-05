@@ -17,5 +17,6 @@ Il s'agit de l'alphabet de l'évangile. Comme vous pouvez le constater le livre 
 Voici à quoi ressemble le livre ABC  
 
   
-![](/images/DSC05375.JPG)[![](/images/DSC05377.JPG)  
-](http://3.bp.blogspot.com/_ToTXtyv4mUo/Sns5228CKBI/AAAAAAAAAoI/Vq0caRvG6-8/s1600-h/DSC05377.JPG)
+![](/images/DSC05375.JPG)
+
+![](/images/DSC05377.JPG)

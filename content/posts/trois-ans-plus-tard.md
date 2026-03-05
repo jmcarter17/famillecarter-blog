@@ -9,6 +9,8 @@ Il y a trois ans, nous avons commencé la rénovation de notre salle de bain. Co
 
  Voici un petit aperçu des changements.
 
-!](/images/salledebain-2-1024x669.jpg "salledebain-2")
+![](/images/salledebain-2-1024x669.jpg "salledebain-2")
 
-[![](/images/salledebain-1-1024x679.jpg "salledebain-1")![](/images/salledebain-3-1024x678.jpg "salledebain-3")
+![](/images/salledebain-1-1024x679.jpg "salledebain-1")
+
+![](/images/salledebain-3-1024x678.jpg "salledebain-3")

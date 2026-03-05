@@ -7,9 +7,15 @@ Samedi nous avons fait une sortie pour aller chercher notre citrouille d'Hallowe
 
 Pourquoi aller si loin? Pour son grand labyrinthe dans les maïs.
 
-!](/images/DSC02757-Version-2-768x1024.jpg "DSC02757 - Version 2")Pour sauter sur les bottes de paille.
+![](/images/DSC02757-Version-2-768x1024.jpg "DSC02757 - Version 2")
 
-[![](/images/DSC02779-Version-2-768x1024.jpg "DSC02779 - Version 2")![](/images/DSC02778-Version-2-1024x768.jpg "DSC02778 - Version 2")Pour prendre de l'air frais.
+Pour sauter sur les bottes de paille.
+
+![](/images/DSC02779-Version-2-768x1024.jpg "DSC02779 - Version 2")
+
+![](/images/DSC02778-Version-2-1024x768.jpg "DSC02778 - Version 2")
+
+Pour prendre de l'air frais.
 
 ![](/images/DSC02786-1024x768.jpg "DSC02786")Pour déconnecter du stress de tous les jours.
 

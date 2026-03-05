@@ -3,7 +3,9 @@ title: "Noël Blanc"
 date: 2012-01-05T02:19:06.000Z
 ---
 
-!](/images/DSC03120-1024x767.jpg "DSC03120")Le 23 décembre il y a eu une belle neige blanche qui s'est installée sur le Québec. Ouf, on était soulagé. On a passé proche de ne pas avoir un Noël blanc.
+![](/images/DSC03120-1024x767.jpg "DSC03120")
+
+Le 23 décembre il y a eu une belle neige blanche qui s'est installée sur le Québec. Ouf, on était soulagé. On a passé proche de ne pas avoir un Noël blanc.
 
 Pour commencé nos vacances, nous avons visité mon côté de famille. Le 24 c'était la grosse fête. Au matin, chez les Amyot, on a eu droit à du « caroling ».
 
@@ -13,7 +15,11 @@ Pour commencé nos vacances, nous avons visité mon côté de famille. Le 24 c'�
 
 ![](/images/noellemire-1024x1024.jpg "noellemire")À partir du 25 la fête continuait du côté Carter. Enfin, c'était le premier noël que nous étions tous réuni ensemble en quatre ans. C'était temps! Les journées qui ont suivi ont été rempli d'activités hivernales. Une chance pour nous la neige était toujours au rendez-vous.
 
-[![](/images/DSC03238-1024x768.jpg "DSC03238")![](/images/noelcarter-1024x1022.jpg "noelcarter")La première expérience d'Ézékiel dans un spa.
+![](/images/DSC03238-1024x768.jpg "DSC03238")
+
+![](/images/noelcarter-1024x1022.jpg "noelcarter")
+
+La première expérience d'Ézékiel dans un spa.
 
 ![](/images/DSC03257-1024x768.jpg "DSC03257")L'avant-midi du 27, température idéal pour jouer à l'extérieur.
 
