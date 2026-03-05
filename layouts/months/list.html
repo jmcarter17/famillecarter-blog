@@ -29,14 +29,20 @@
         {{ $posts = where $posts "Date" "<" $end }}
         {{ $posts = $posts.ByDate.Reverse }}
 
-        <ul class="list pl0 mt4">
-          {{ range $posts }}
-            <li class="mv2">
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              <span class="gray"> — {{ .Date.Format "2006-01-02" }}</span>
-            </li>
-          {{ end }}
-        </ul>
+        {{ range $posts }}
+          <section class="mt5 pt4 bt b--black-10">
+            <header>
+              <h2 class="f2 mb1">
+                <a class="link dim mid-gray" href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h2>
+              <div class="f6 gray">{{ .Date.Format "January 2, 2006" }}</div>
+            </header>
+
+            <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray mt3">
+              {{ .Content }}
+            </div>
+          </section>
+        {{ end }}
 
         <div class="mt5">
           <a class="link dim mid-gray" href="{{ "archives/" | relURL }}">← Back to Archives</a>
