@@ -21,10 +21,20 @@
             {{ range $month := ($year.Pages.GroupByDate "2006-01") }}
               {{ $monthKey := $month.Key }}
               {{ $t := time.AsTime (printf "%s-01" $monthKey) }}
+
               <h3 class="f3 mt3">
                 <a class="link dim mid-gray" href="{{ (printf "months/%s/" $monthKey) | relURL }}">{{ $t.Format "January" }}</a>
                 <span class="gray">({{ len $month.Pages }})</span>
               </h3>
+
+              <ul class="list pl0 mt2">
+                {{ range $month.Pages.ByDate.Reverse }}
+                  <li class="mv1">
+                    <a class="link dim mid-gray" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    <span class="gray"> — {{ .Date.Format "2006-01-02" }}</span>
+                  </li>
+                {{ end }}
+              </ul>
             {{ end }}
           </section>
         {{ end }}
