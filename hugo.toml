@@ -8,3 +8,8 @@ pagerSize = 10
 
 [params]
 description = "Un journal de famille"
+
+[[menu.main]]
+name = "Archives"
+url = "/archives/"
+weight = 30

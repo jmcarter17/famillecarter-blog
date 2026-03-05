@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <main class="pb7" role="main">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <h1 class="f1">{{ .Title }}</h1>
+        {{ with .Content }}
+          <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
+            {{ . }}
+          </div>
+        {{ end }}
+      </header>
+
+      {{ $posts := where site.RegularPages "Section" "posts" }}
+      {{ $posts = $posts.ByDate.Reverse }}
+
+      <div class="mt4">
+        {{ range $year := ($posts.GroupByDate "2006") }}
+          <section class="mt4">
+            <h2 class="f2">{{ $year.Key }}</h2>
+
+            {{ range $month := ($year.Pages.GroupByDate "01 - January") }}
+              <h3 class="f3 mt3">{{ $month.Key }}</h3>
+              <ul class="list pl0">
+                {{ range $month.Pages }}
+                  <li class="mv2">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    <span class="gray"> — {{ .Date.Format "2006-01-02" }}</span>
+                  </li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </section>
+        {{ end }}
+      </div>
+    </article>
+  </main>
+{{ end }}
