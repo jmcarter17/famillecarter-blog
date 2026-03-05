@@ -112,7 +112,6 @@ Marjorie et Deb devant le Château d'Yvoire (toujours occupé)
 
 ![](/images/Gen%C3%A8ve266.jpg)
 
-[  
-](http://4.bp.blogspot.com/-1v83EIFGPMw/Tcb5N-UYgOI/AAAAAAAABJ4/f35FWxEaH9E/s1600/Gen%25C3%25A8ve241.jpg)
+![](/images/Gen%C3%A8ve241.jpg)
 
 Même après avoir passé 3 jours à Paris et 5 près de Genève, nous avions encore bien des découvertes à faire dans le Sud-Ouest de la France.
