@@ -10,6 +10,11 @@ pagerSize = 10
 description = "Un journal de famille"
 
 [[menu.main]]
+name = "À propos"
+url = "/pages/a-propos-de-nous/"
+weight = 20
+
+[[menu.main]]
 name = "Archives"
 url = "/archives/"
 weight = 30
