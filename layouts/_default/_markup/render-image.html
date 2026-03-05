@@ -1,0 +1,16 @@
+{{/*
+  Hugo render hook for Markdown images.
+
+  Fixes GitHub Pages *project site* deployments where the site lives under a sub-path
+  (e.g. https://user.github.io/repo/). In that scenario, root-relative URLs like
+  /images/foo.jpg need to become /repo/images/foo.jpg.
+
+  We run all destinations through relURL, which respects baseURL (including subdir).
+*/}}
+
+{{- $dest := .Destination -}}
+{{- if hasPrefix $dest "/" -}}
+  {{- $dest = strings.TrimPrefix "/" $dest -}}
+{{- end -}}
+{{- $dest = $dest | relURL -}}
+<img src="{{ $dest }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
